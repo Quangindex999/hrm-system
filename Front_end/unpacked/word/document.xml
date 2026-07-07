@@ -1,0 +1,5550 @@
+<?xml version="1.0" encoding="UTF-8"?><w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" xmlns:wpsCustomData="http://www.wps.cn/officeDocument/2013/wpsCustomData" mc:Ignorable="w14 w15 wp14">
+  <w:body>
+    <w:p w14:paraId="05F28E58">
+      <w:pPr>
+        <w:keepNext w:val="0"/>
+        <w:keepLines w:val="0"/>
+        <w:pageBreakBefore w:val="0"/>
+        <w:widowControl/>
+        <w:kinsoku/>
+        <w:wordWrap/>
+        <w:overflowPunct/>
+        <w:topLinePunct w:val="0"/>
+        <w:autoSpaceDE/>
+        <w:autoSpaceDN/>
+        <w:bidi w:val="0"/>
+        <w:adjustRightInd/>
+        <w:snapToGrid/>
+        <w:spacing w:after="0" w:line="360" w:lineRule="auto"/>
+        <w:jc w:val="center"/>
+        <w:textAlignment w:val="auto"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="28"/>
+        </w:rPr>
+        <mc:AlternateContent>
+          <mc:Choice Requires="wps">
+            <w:drawing>
+              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251662336" behindDoc="1" locked="0" layoutInCell="1" allowOverlap="1">
+                <wp:simplePos x="0" y="0"/>
+                <wp:positionH relativeFrom="column">
+                  <wp:posOffset>-171450</wp:posOffset>
+                </wp:positionH>
+                <wp:positionV relativeFrom="paragraph">
+                  <wp:posOffset>-133350</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="5928360" cy="9494520"/>
+                <wp:effectExtent l="12700" t="12700" r="15240" b="17780"/>
+                <wp:wrapNone/>
+                <wp:docPr id="4" name="Rectangles 4"/>
+                <wp:cNvGraphicFramePr/>
+                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                    <wps:wsp>
+                      <wps:cNvSpPr/>
+                      <wps:spPr>
+                        <a:xfrm>
+                          <a:off x="0" y="0"/>
+                          <a:ext cx="5928360" cy="9494520"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="rect">
+                          <a:avLst/>
+                        </a:prstGeom>
+                        <a:noFill/>
+                        <a:ln w="28575" cmpd="thickThin">
+                          <a:solidFill>
+                            <a:schemeClr val="tx1"/>
+                          </a:solidFill>
+                          <a:prstDash val="solid"/>
+                        </a:ln>
+                      </wps:spPr>
+                      <wps:style>
+                        <a:lnRef idx="2">
+                          <a:schemeClr val="accent1">
+                            <a:shade val="50000"/>
+                          </a:schemeClr>
+                        </a:lnRef>
+                        <a:fillRef idx="1">
+                          <a:schemeClr val="accent1"/>
+                        </a:fillRef>
+                        <a:effectRef idx="0">
+                          <a:schemeClr val="accent1"/>
+                        </a:effectRef>
+                        <a:fontRef idx="minor">
+                          <a:schemeClr val="lt1"/>
+                        </a:fontRef>
+                      </wps:style>
+                      <wps:bodyPr rot="0" spcFirstLastPara="0" vertOverflow="overflow" horzOverflow="overflow" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                        <a:noAutofit/>
+                      </wps:bodyPr>
+                    </wps:wsp>
+                  </a:graphicData>
+                </a:graphic>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:rect id="Rectangles 4" o:spid="_x0000_s1026" o:spt="1" style="position:absolute;left:0pt;margin-left:-13.5pt;margin-top:-10.5pt;height:747.6pt;width:466.8pt;z-index:-251654144;v-text-anchor:middle;mso-width-relative:page;mso-height-relative:page;" filled="f" stroked="t" coordsize="21600,21600" o:gfxdata="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 bFBLBQYAAAAABgAGAFkBAAABBgAAAAA= ">
+                <v:fill on="f" focussize="0,0"/>
+                <v:stroke weight="2.25pt" color="#000000 [3213]" linestyle="thickThin" miterlimit="8" joinstyle="miter"/>
+                <v:imagedata o:title=""/>
+                <o:lock v:ext="edit" aspectratio="f"/>
+              </v:rect>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t>TRƯỜNG ĐẠI HỌC ĐẠI NAM</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="454B7686">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="288" w:lineRule="auto"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <mc:AlternateContent>
+          <mc:Choice Requires="wps">
+            <w:drawing>
+              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251659264" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                <wp:simplePos x="0" y="0"/>
+                <wp:positionH relativeFrom="column">
+                  <wp:posOffset>1569720</wp:posOffset>
+                </wp:positionH>
+                <wp:positionV relativeFrom="paragraph">
+                  <wp:posOffset>232410</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="2400300" cy="0"/>
+                <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                <wp:wrapNone/>
+                <wp:docPr id="18" name="AutoShape 16"/>
+                <wp:cNvGraphicFramePr/>
+                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                    <wps:wsp>
+                      <wps:cNvCnPr>
+                        <a:cxnSpLocks noChangeShapeType="1"/>
+                      </wps:cNvCnPr>
+                      <wps:spPr bwMode="auto">
+                        <a:xfrm>
+                          <a:off x="0" y="0"/>
+                          <a:ext cx="2400300" cy="0"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="straightConnector1">
+                          <a:avLst/>
+                        </a:prstGeom>
+                        <a:ln>
+                          <a:headEnd type="none" w="med" len="med"/>
+                          <a:tailEnd type="none" w="med" len="med"/>
+                        </a:ln>
+                      </wps:spPr>
+                      <wps:style>
+                        <a:lnRef idx="2">
+                          <a:schemeClr val="dk1"/>
+                        </a:lnRef>
+                        <a:fillRef idx="0">
+                          <a:schemeClr val="dk1"/>
+                        </a:fillRef>
+                        <a:effectRef idx="1">
+                          <a:schemeClr val="dk1"/>
+                        </a:effectRef>
+                        <a:fontRef idx="minor">
+                          <a:schemeClr val="tx1"/>
+                        </a:fontRef>
+                      </wps:style>
+                      <wps:bodyPr/>
+                    </wps:wsp>
+                  </a:graphicData>
+                </a:graphic>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:shape id="AutoShape 16" o:spid="_x0000_s1026" o:spt="32" type="#_x0000_t32" style="position:absolute;left:0pt;margin-left:123.6pt;margin-top:18.3pt;height:0pt;width:189pt;z-index:251659264;mso-width-relative:page;mso-height-relative:page;" filled="f" stroked="t" coordsize="21600,21600" o:gfxdata="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 ">
+                <v:fill on="f" focussize="0,0"/>
+                <v:stroke weight="1pt" color="#000000 [3200]" miterlimit="8" joinstyle="miter"/>
+                <v:imagedata o:title=""/>
+                <o:lock v:ext="edit" aspectratio="f"/>
+              </v:shape>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t>KHOA CÔNG NGHỆ THÔNG TIN</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7B0EC120">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="0013EFA6">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0">
+            <wp:extent cx="1339215" cy="1336040"/>
+            <wp:effectExtent l="0" t="0" r="1905" b="5080"/>
+            <wp:docPr id="2" name="Picture 2" descr="Logo, company name  Description automatically generated"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="2" name="Picture 2" descr="Logo, company name  Description automatically generated"/>
+                    <pic:cNvPicPr>
+                      <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                    </pic:cNvPicPr>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId11" cstate="print">
+                      <a:extLst>
+                        <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                          <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0"/>
+                        </a:ext>
+                      </a:extLst>
+                    </a:blip>
+                    <a:srcRect/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="1339215" cy="1336040"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                    <a:noFill/>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="17DD7312">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="2594431F">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="43DFCBA1">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="50"/>
+          <w:szCs w:val="64"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="40"/>
+          <w:szCs w:val="40"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t>BÀI TẬP LỚN</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7B93BF2B">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+          <w:lang w:val="vi-VN"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t>HỌC PHẦN: THIẾT KẾ &amp;KIẾN TRÚC PHẦN MỀM</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6E19D319">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="30"/>
+          <w:szCs w:val="36"/>
+          <w:lang w:val="vi-VN"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="30"/>
+          <w:szCs w:val="36"/>
+          <w:lang w:val="vi-VN"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t>ĐỀ TÀI:  …………………………………………………….….</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6FC4574C">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="44"/>
+          <w:szCs w:val="44"/>
+          <w:lang w:val="vi-VN"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5A55EA21">
+      <w:pPr>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi-VN"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi-VN"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:tab/>
+      <w:tab/></w:r>
+      
+    </w:p>
+    <w:p w14:paraId="2D03E701">
+      <w:pPr>
+        <w:ind w:left="720" w:firstLine="720"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi-VN"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t xml:space="preserve">Giảng viên:  ThS. </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t>Đỗ Quang Thơ</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="09C1E43D">
+      <w:pPr>
+        <w:ind w:left="720" w:firstLine="720"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi-VN"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi-VN"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t>Sinh viên thực hiện:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6E5DA796">
+      <w:pPr>
+        <w:pStyle w:val="26"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:ind w:left="2410"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi-VN"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t>Họ và tên – Mã sinh viên</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="19F324DF">
+      <w:pPr>
+        <w:pStyle w:val="26"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+        <w:ind w:left="2410"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t>Họ và tên – Mã sinh viên</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1FDA50C3">
+      <w:pPr>
+        <w:ind w:left="720" w:firstLine="720"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="155902D6">
+      <w:pPr>
+        <w:ind w:left="720" w:firstLine="720"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="1A5771F6">
+      <w:pPr>
+        <w:ind w:left="720" w:firstLine="720"/>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      <w:tab/></w:r>
+      
+    </w:p>
+    <w:p w14:paraId="27BBB2D3">
+      <w:pPr>
+        <w:ind w:left="2160" w:firstLine="720"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="66C814ED">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="24D7C4DB">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:sectPr>
+          <w:headerReference r:id="rId5" w:type="default"/>
+          <w:footerReference r:id="rId6" w:type="default"/>
+          <w:pgSz w:w="11907" w:h="16840"/>
+          <w:pgMar w:top="1134" w:right="1418" w:bottom="1134" w:left="1701" w:header="709" w:footer="709" w:gutter="0"/>
+          <w:cols w:space="708" w:num="1"/>
+          <w:titlePg/>
+          <w:docGrid w:linePitch="360" w:charSpace="0"/>
+        </w:sectPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t>Hà Nội, năm 2026</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="04A7C999">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="288" w:lineRule="auto"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="28"/>
+        </w:rPr>
+        <mc:AlternateContent>
+          <mc:Choice Requires="wps">
+            <w:drawing>
+              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251661312" behindDoc="1" locked="0" layoutInCell="1" allowOverlap="1">
+                <wp:simplePos x="0" y="0"/>
+                <wp:positionH relativeFrom="column">
+                  <wp:posOffset>-201930</wp:posOffset>
+                </wp:positionH>
+                <wp:positionV relativeFrom="paragraph">
+                  <wp:posOffset>-133350</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="5928360" cy="9494520"/>
+                <wp:effectExtent l="12700" t="12700" r="15240" b="17780"/>
+                <wp:wrapNone/>
+                <wp:docPr id="5" name="Rectangles 5"/>
+                <wp:cNvGraphicFramePr/>
+                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                    <wps:wsp>
+                      <wps:cNvSpPr/>
+                      <wps:spPr>
+                        <a:xfrm>
+                          <a:off x="0" y="0"/>
+                          <a:ext cx="5928360" cy="9494520"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="rect">
+                          <a:avLst/>
+                        </a:prstGeom>
+                        <a:noFill/>
+                        <a:ln w="28575" cmpd="thickThin">
+                          <a:solidFill>
+                            <a:schemeClr val="tx1"/>
+                          </a:solidFill>
+                          <a:prstDash val="solid"/>
+                        </a:ln>
+                      </wps:spPr>
+                      <wps:style>
+                        <a:lnRef idx="2">
+                          <a:schemeClr val="accent1">
+                            <a:shade val="50000"/>
+                          </a:schemeClr>
+                        </a:lnRef>
+                        <a:fillRef idx="1">
+                          <a:schemeClr val="accent1"/>
+                        </a:fillRef>
+                        <a:effectRef idx="0">
+                          <a:schemeClr val="accent1"/>
+                        </a:effectRef>
+                        <a:fontRef idx="minor">
+                          <a:schemeClr val="lt1"/>
+                        </a:fontRef>
+                      </wps:style>
+                      <wps:bodyPr rot="0" spcFirstLastPara="0" vertOverflow="overflow" horzOverflow="overflow" vert="horz" wrap="square" lIns="91440" tIns="45720" rIns="91440" bIns="45720" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="ctr" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                        <a:noAutofit/>
+                      </wps:bodyPr>
+                    </wps:wsp>
+                  </a:graphicData>
+                </a:graphic>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:rect id="Rectangles 5" o:spid="_x0000_s1026" o:spt="1" style="position:absolute;left:0pt;margin-left:-15.9pt;margin-top:-10.5pt;height:747.6pt;width:466.8pt;z-index:-251655168;v-text-anchor:middle;mso-width-relative:page;mso-height-relative:page;" filled="f" stroked="t" coordsize="21600,21600" o:gfxdata="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 bFBLBQYAAAAABgAGAFkBAAABBgAAAAA= ">
+                <v:fill on="f" focussize="0,0"/>
+                <v:stroke weight="2.25pt" color="#000000 [3213]" linestyle="thickThin" miterlimit="8" joinstyle="miter"/>
+                <v:imagedata o:title=""/>
+                <o:lock v:ext="edit" aspectratio="f"/>
+              </v:rect>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="vi"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t>TRƯỜNG ĐẠI HỌC ĐẠI NAM</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="33EDA35D">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t>KHOA CÔNG NGHỆ THÔNG TIN</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3EA0E3C7">
+      <w:pPr>
+        <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:sz w:val="28"/>
+        </w:rPr>
+        <mc:AlternateContent>
+          <mc:Choice Requires="wps">
+            <w:drawing>
+              <wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251660288" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+                <wp:simplePos x="0" y="0"/>
+                <wp:positionH relativeFrom="column">
+                  <wp:posOffset>1736725</wp:posOffset>
+                </wp:positionH>
+                <wp:positionV relativeFrom="paragraph">
+                  <wp:posOffset>28575</wp:posOffset>
+                </wp:positionV>
+                <wp:extent cx="2080260" cy="0"/>
+                <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                <wp:wrapNone/>
+                <wp:docPr id="1" name="Straight Connector 1"/>
+                <wp:cNvGraphicFramePr/>
+                <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                  <a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                    <wps:wsp>
+                      <wps:cNvCnPr/>
+                      <wps:spPr>
+                        <a:xfrm>
+                          <a:off x="2816860" y="1118870"/>
+                          <a:ext cx="2080260" cy="0"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="line">
+                          <a:avLst/>
+                        </a:prstGeom>
+                      </wps:spPr>
+                      <wps:style>
+                        <a:lnRef idx="2">
+                          <a:schemeClr val="dk1"/>
+                        </a:lnRef>
+                        <a:fillRef idx="0">
+                          <a:schemeClr val="dk1"/>
+                        </a:fillRef>
+                        <a:effectRef idx="1">
+                          <a:schemeClr val="dk1"/>
+                        </a:effectRef>
+                        <a:fontRef idx="minor">
+                          <a:schemeClr val="tx1"/>
+                        </a:fontRef>
+                      </wps:style>
+                      <wps:bodyPr/>
+                    </wps:wsp>
+                  </a:graphicData>
+                </a:graphic>
+              </wp:anchor>
+            </w:drawing>
+          </mc:Choice>
+          <mc:Fallback>
+            <w:pict>
+              <v:line id="_x0000_s1026" o:spid="_x0000_s1026" o:spt="20" style="position:absolute;left:0pt;margin-left:136.75pt;margin-top:2.25pt;height:0pt;width:163.8pt;z-index:251660288;mso-width-relative:page;mso-height-relative:page;" filled="f" stroked="t" coordsize="21600,21600" o:gfxdata="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 ">
+                <v:fill on="f" focussize="0,0"/>
+                <v:stroke weight="1pt" color="#000000 [3200]" miterlimit="8" joinstyle="miter"/>
+                <v:imagedata o:title=""/>
+                <o:lock v:ext="edit" aspectratio="f"/>
+              </v:line>
+            </w:pict>
+          </mc:Fallback>
+        </mc:AlternateContent>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3D4F1D96">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:drawing>
+          <wp:inline distT="0" distB="0" distL="0" distR="0">
+            <wp:extent cx="1359535" cy="1355725"/>
+            <wp:effectExtent l="0" t="0" r="12065" b="635"/>
+            <wp:docPr id="8" name="Picture 8" descr="Logo, company name  Description automatically generated"/>
+            <wp:cNvGraphicFramePr>
+              <a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+            </wp:cNvGraphicFramePr>
+            <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+              <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                <pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                  <pic:nvPicPr>
+                    <pic:cNvPr id="8" name="Picture 8" descr="Logo, company name  Description automatically generated"/>
+                    <pic:cNvPicPr>
+                      <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                    </pic:cNvPicPr>
+                  </pic:nvPicPr>
+                  <pic:blipFill>
+                    <a:blip r:embed="rId12" cstate="print">
+                      <a:extLst>
+                        <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                          <a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0"/>
+                        </a:ext>
+                      </a:extLst>
+                    </a:blip>
+                    <a:srcRect/>
+                    <a:stretch>
+                      <a:fillRect/>
+                    </a:stretch>
+                  </pic:blipFill>
+                  <pic:spPr>
+                    <a:xfrm>
+                      <a:off x="0" y="0"/>
+                      <a:ext cx="1359535" cy="1355725"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                      <a:avLst/>
+                    </a:prstGeom>
+                    <a:noFill/>
+                  </pic:spPr>
+                </pic:pic>
+              </a:graphicData>
+            </a:graphic>
+          </wp:inline>
+        </w:drawing>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1F2EEA99">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="40"/>
+          <w:szCs w:val="40"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="65EAA0A8">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="40"/>
+          <w:szCs w:val="40"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="40"/>
+          <w:szCs w:val="40"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t>BÀI TẬP LỚN</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="39A88B81">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+          <w:lang w:val="vi-VN"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t>HỌC PHẦN: THIẾT KẾ &amp;KIẾN TRÚC PHẦN MỀM</w:t>
+      </w:r>
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblStyle w:val="7"/>
+        <w:tblW w:w="21600" w:type="dxa"/>
+        <w:tblInd w:w="0" w:type="dxa"/>
+        <w:tblLayout w:type="autofit"/>
+        <w:tblCellMar>
+          <w:top w:w="15" w:type="dxa"/>
+          <w:left w:w="15" w:type="dxa"/>
+          <w:bottom w:w="15" w:type="dxa"/>
+          <w:right w:w="15" w:type="dxa"/>
+        </w:tblCellMar>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="21600"/>
+      </w:tblGrid>
+      <w:tr w14:paraId="239B3B58">
+        <w:tblPrEx>
+          <w:tblCellMar>
+            <w:top w:w="15" w:type="dxa"/>
+            <w:left w:w="15" w:type="dxa"/>
+            <w:bottom w:w="15" w:type="dxa"/>
+            <w:right w:w="15" w:type="dxa"/>
+          </w:tblCellMar>
+        </w:tblPrEx>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="0" w:type="auto"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="11FCA038">
+            <w:pPr>
+              <w:jc w:val="center"/>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="000000" w:themeColor="text1"/>
+                <w:sz w:val="32"/>
+                <w:szCs w:val="32"/>
+                <w:lang w:val="vi-VN"/>
+                <w14:textFill>
+                  <w14:solidFill>
+                    <w14:schemeClr w14:val="tx1"/>
+                  </w14:solidFill>
+                </w14:textFill>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="3FD46A26">
+      <w:pPr>
+        <w:ind w:right="141"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="44"/>
+          <w:szCs w:val="44"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="30"/>
+          <w:szCs w:val="36"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t>ĐỀ TÀI:  …………………………………………………….….</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="52F91C7B">
+      <w:pPr>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:tab/>
+      <w:tab/></w:r>
+      
+    </w:p>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblStyle w:val="15"/>
+        <w:tblW w:w="0" w:type="auto"/>
+        <w:tblInd w:w="0" w:type="dxa"/>
+        <w:tblBorders>
+          <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          <w:insideH w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          <w:insideV w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+        </w:tblBorders>
+        <w:tblLayout w:type="fixed"/>
+        <w:tblCellMar>
+          <w:top w:w="0" w:type="dxa"/>
+          <w:left w:w="108" w:type="dxa"/>
+          <w:bottom w:w="0" w:type="dxa"/>
+          <w:right w:w="108" w:type="dxa"/>
+        </w:tblCellMar>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="602"/>
+        <w:gridCol w:w="1823"/>
+        <w:gridCol w:w="2478"/>
+        <w:gridCol w:w="1504"/>
+        <w:gridCol w:w="1210"/>
+        <w:gridCol w:w="1310"/>
+      </w:tblGrid>
+      <w:tr w14:paraId="66010BF0">
+        <w:tblPrEx>
+          <w:tblBorders>
+            <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:insideH w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:insideV w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          </w:tblBorders>
+          <w:tblCellMar>
+            <w:top w:w="0" w:type="dxa"/>
+            <w:left w:w="108" w:type="dxa"/>
+            <w:bottom w:w="0" w:type="dxa"/>
+            <w:right w:w="108" w:type="dxa"/>
+          </w:tblCellMar>
+        </w:tblPrEx>
+        <w:trPr>
+          <w:trHeight w:val="540" w:hRule="atLeast"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="602" w:type="dxa"/>
+            <w:vMerge w:val="restart"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="39C66B02">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:ind w:left="0"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+            </w:pPr>
+            <w:bookmarkStart w:id="0" w:name="_Toc119512805"/>
+            <w:bookmarkStart w:id="1" w:name="_Toc119015185"/>
+            <w:r>
+              <w:t>TT</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="0"/>
+            <w:bookmarkEnd w:id="1"/>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1823" w:type="dxa"/>
+            <w:vMerge w:val="restart"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="0C03FAC8">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:ind w:left="0"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+              <w:rPr>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="2" w:name="_Toc119512806"/>
+            <w:bookmarkStart w:id="3" w:name="_Toc119015186"/>
+            <w:r>
+              <w:t>Mã</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:lang w:val="vi-VN"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="2"/>
+            <w:bookmarkEnd w:id="3"/>
+            <w:r>
+              <w:rPr>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+              <w:t>sv</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2478" w:type="dxa"/>
+            <w:vMerge w:val="restart"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="0FB86FF9">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+              <w:rPr>
+                <w:lang w:val="vi-VN"/>
+              </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="4" w:name="_Toc119512807"/>
+            <w:bookmarkStart w:id="5" w:name="_Toc119015187"/>
+            <w:r>
+              <w:rPr>
+                <w:lang w:val="vi-VN"/>
+              </w:rPr>
+              <w:t>Họ và Tên</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="4"/>
+            <w:bookmarkEnd w:id="5"/>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1504" w:type="dxa"/>
+            <w:vMerge w:val="restart"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="31AC6878">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:ind w:left="0"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+            </w:pPr>
+            <w:bookmarkStart w:id="6" w:name="_Toc119512808"/>
+            <w:bookmarkStart w:id="7" w:name="_Toc119015188"/>
+            <w:r>
+              <w:t>Ngày</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:lang w:val="vi-VN"/>
+              </w:rPr>
+              <w:t>Sinh</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="6"/>
+            <w:bookmarkEnd w:id="7"/>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2520" w:type="dxa"/>
+            <w:gridSpan w:val="2"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="3E30823C">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:ind w:left="0"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+            </w:pPr>
+            <w:bookmarkStart w:id="8" w:name="_Toc119015189"/>
+            <w:bookmarkStart w:id="9" w:name="_Toc119512809"/>
+            <w:r>
+              <w:t>Điểm</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="8"/>
+            <w:bookmarkEnd w:id="9"/>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w14:paraId="305096B3">
+        <w:tblPrEx>
+          <w:tblBorders>
+            <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:insideH w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:insideV w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          </w:tblBorders>
+          <w:tblCellMar>
+            <w:top w:w="0" w:type="dxa"/>
+            <w:left w:w="108" w:type="dxa"/>
+            <w:bottom w:w="0" w:type="dxa"/>
+            <w:right w:w="108" w:type="dxa"/>
+          </w:tblCellMar>
+        </w:tblPrEx>
+        <w:trPr>
+          <w:trHeight w:val="466" w:hRule="atLeast"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="602" w:type="dxa"/>
+            <w:vMerge w:val="continue"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="5133F5B7">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1823" w:type="dxa"/>
+            <w:vMerge w:val="continue"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="51664D2A">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2478" w:type="dxa"/>
+            <w:vMerge w:val="continue"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="5CAB1C5F">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+              <w:rPr>
+                <w:lang w:val="vi-VN"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1504" w:type="dxa"/>
+            <w:vMerge w:val="continue"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="2B6C59BB">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1210" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="76BB2004">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:ind w:left="0"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+              <w:rPr>
+                <w:b w:val="0"/>
+                <w:bCs w:val="0"/>
+                <w:lang w:val="vi-VN"/>
+              </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="10" w:name="_Toc119015190"/>
+            <w:bookmarkStart w:id="11" w:name="_Toc119512810"/>
+            <w:r>
+              <w:rPr>
+                <w:b w:val="0"/>
+                <w:bCs w:val="0"/>
+              </w:rPr>
+              <w:t>Bằng</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:b w:val="0"/>
+                <w:bCs w:val="0"/>
+                <w:lang w:val="vi-VN"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> Số</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="10"/>
+            <w:bookmarkEnd w:id="11"/>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1310" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="03C8256E">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:ind w:left="0"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+              <w:rPr>
+                <w:b w:val="0"/>
+                <w:bCs w:val="0"/>
+                <w:lang w:val="vi-VN"/>
+              </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="12" w:name="_Toc119512811"/>
+            <w:bookmarkStart w:id="13" w:name="_Toc119015191"/>
+            <w:r>
+              <w:rPr>
+                <w:b w:val="0"/>
+                <w:bCs w:val="0"/>
+              </w:rPr>
+              <w:t>Bằng</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:b w:val="0"/>
+                <w:bCs w:val="0"/>
+                <w:lang w:val="vi-VN"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> Chữ</w:t>
+            </w:r>
+            <w:bookmarkEnd w:id="12"/>
+            <w:bookmarkEnd w:id="13"/>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w14:paraId="3C1A1697">
+        <w:tblPrEx>
+          <w:tblBorders>
+            <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:insideH w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:insideV w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          </w:tblBorders>
+          <w:tblCellMar>
+            <w:top w:w="0" w:type="dxa"/>
+            <w:left w:w="108" w:type="dxa"/>
+            <w:bottom w:w="0" w:type="dxa"/>
+            <w:right w:w="108" w:type="dxa"/>
+          </w:tblCellMar>
+        </w:tblPrEx>
+        <w:trPr>
+          <w:trHeight w:val="401" w:hRule="atLeast"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="602" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="1EB20B2D">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+              <w:rPr>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+              <w:t>1</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1823" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="2F636F07">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2478" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="14A7236E">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:ind w:left="0"/>
+              <w:outlineLvl w:val="2"/>
+              <w:rPr>
+                <w:lang w:val="vi-VN"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1504" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="6B06FC2A">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:ind w:left="0"/>
+              <w:outlineLvl w:val="2"/>
+              <w:rPr>
+                <w:lang w:val="vi-VN"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1210" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="0604C2DC">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1310" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="7FB41F1A">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w14:paraId="100B52BD">
+        <w:tblPrEx>
+          <w:tblBorders>
+            <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:insideH w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:insideV w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          </w:tblBorders>
+          <w:tblCellMar>
+            <w:top w:w="0" w:type="dxa"/>
+            <w:left w:w="108" w:type="dxa"/>
+            <w:bottom w:w="0" w:type="dxa"/>
+            <w:right w:w="108" w:type="dxa"/>
+          </w:tblCellMar>
+        </w:tblPrEx>
+        <w:trPr>
+          <w:trHeight w:val="401" w:hRule="atLeast"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="602" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="4FE1794B">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+              <w:rPr>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+              <w:t>2</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1823" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="17F7154E">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2478" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="7CF909C1">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:ind w:left="0"/>
+              <w:outlineLvl w:val="2"/>
+              <w:rPr>
+                <w:lang w:val="vi-VN"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1504" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="78F828B2">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:ind w:left="0"/>
+              <w:outlineLvl w:val="2"/>
+              <w:rPr>
+                <w:lang w:val="vi-VN"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1210" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="633E30F8">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1310" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="63E9811E">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr w14:paraId="51F0356F">
+        <w:tblPrEx>
+          <w:tblBorders>
+            <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:insideH w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:insideV w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          </w:tblBorders>
+          <w:tblCellMar>
+            <w:top w:w="0" w:type="dxa"/>
+            <w:left w:w="108" w:type="dxa"/>
+            <w:bottom w:w="0" w:type="dxa"/>
+            <w:right w:w="108" w:type="dxa"/>
+          </w:tblCellMar>
+        </w:tblPrEx>
+        <w:trPr>
+          <w:trHeight w:val="401" w:hRule="atLeast"/>
+        </w:trPr>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="602" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="03B0B196">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+              <w:rPr>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:lang w:val="en-US"/>
+              </w:rPr>
+              <w:t>3</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1823" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="2C9977E6">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="2478" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="16997312">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:ind w:left="0"/>
+              <w:outlineLvl w:val="2"/>
+              <w:rPr>
+                <w:lang w:val="vi-VN"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1504" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="17E03C14">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:ind w:left="0"/>
+              <w:outlineLvl w:val="2"/>
+              <w:rPr>
+                <w:lang w:val="vi-VN"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1210" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="106D8A22">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="1310" w:type="dxa"/>
+            <w:vAlign w:val="center"/>
+          </w:tcPr>
+          <w:p w14:paraId="5558FD09">
+            <w:pPr>
+              <w:pStyle w:val="4"/>
+              <w:spacing w:before="89"/>
+              <w:jc w:val="center"/>
+              <w:outlineLvl w:val="2"/>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="1D71D349">
+      <w:bookmarkStart w:id="14" w:name="_Toc119015204"/>
+      <w:bookmarkStart w:id="15" w:name="_Toc119512824"/>
+    </w:p>
+    <w:p w14:paraId="32C35AF5"/>
+    <w:tbl>
+      <w:tblPr>
+        <w:tblStyle w:val="15"/>
+        <w:tblW w:w="0" w:type="auto"/>
+        <w:tblInd w:w="0" w:type="dxa"/>
+        <w:tblBorders>
+          <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          <w:insideH w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          <w:insideV w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+        </w:tblBorders>
+        <w:tblLayout w:type="autofit"/>
+        <w:tblCellMar>
+          <w:top w:w="0" w:type="dxa"/>
+          <w:left w:w="108" w:type="dxa"/>
+          <w:bottom w:w="0" w:type="dxa"/>
+          <w:right w:w="108" w:type="dxa"/>
+        </w:tblCellMar>
+      </w:tblPr>
+      <w:tblGrid>
+        <w:gridCol w:w="4502"/>
+        <w:gridCol w:w="4502"/>
+      </w:tblGrid>
+      <w:tr w14:paraId="0463CCA8">
+        <w:tblPrEx>
+          <w:tblBorders>
+            <w:top w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:left w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:bottom w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:right w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:insideH w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+            <w:insideV w:val="single" w:color="auto" w:sz="4" w:space="0"/>
+          </w:tblBorders>
+          <w:tblCellMar>
+            <w:top w:w="0" w:type="dxa"/>
+            <w:left w:w="108" w:type="dxa"/>
+            <w:bottom w:w="0" w:type="dxa"/>
+            <w:right w:w="108" w:type="dxa"/>
+          </w:tblCellMar>
+        </w:tblPrEx>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4502" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="nil"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="nil"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+          </w:tcPr>
+          <w:p w14:paraId="0B852EC4">
+            <w:pPr>
+              <w:jc w:val="center"/>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>CÁN BỘ CHẤM THI 1</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="0F5FCCCE">
+            <w:pPr>
+              <w:jc w:val="center"/>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w14:paraId="6940A5C5">
+            <w:pPr>
+              <w:jc w:val="center"/>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w14:paraId="7024537A">
+            <w:pPr>
+              <w:jc w:val="center"/>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+                <w:color w:val="000000" w:themeColor="text1"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+                <w14:textFill>
+                  <w14:solidFill>
+                    <w14:schemeClr w14:val="tx1"/>
+                  </w14:solidFill>
+                </w14:textFill>
+              </w:rPr>
+              <w:t>ThS. Đỗ Quang Thơ</w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+        <w:tc>
+          <w:tcPr>
+            <w:tcW w:w="4502" w:type="dxa"/>
+            <w:tcBorders>
+              <w:top w:val="nil"/>
+              <w:left w:val="nil"/>
+              <w:bottom w:val="nil"/>
+              <w:right w:val="nil"/>
+            </w:tcBorders>
+          </w:tcPr>
+          <w:p w14:paraId="3CA35227">
+            <w:pPr>
+              <w:jc w:val="center"/>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+              <w:t>CÁN BỘ CHẤM THI 2</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="60936C1F">
+            <w:pPr>
+              <w:jc w:val="center"/>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w14:paraId="12A7C5D2">
+            <w:pPr>
+              <w:jc w:val="center"/>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w14:paraId="495CB3A0">
+            <w:pPr>
+              <w:jc w:val="center"/>
+              <w:rPr>
+                <w:b/>
+                <w:bCs/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:p w14:paraId="03AF001C">
+      <w:pPr>
+        <w:pStyle w:val="4"/>
+        <w:spacing w:before="89"/>
+        <w:ind w:left="0"/>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">                                                               </w:t>
+      </w:r>
+      <w:bookmarkEnd w:id="14"/>
+      <w:bookmarkEnd w:id="15"/>
+    </w:p>
+    <w:p w14:paraId="6BA3D2B0">
+      <w:pPr>
+        <w:ind w:left="2160" w:firstLine="720"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="06D6A3B3">
+      <w:pPr>
+        <w:ind w:left="2160" w:firstLine="720"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="7352C3F2">
+      <w:pPr>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:sectPr>
+          <w:headerReference r:id="rId7" w:type="default"/>
+          <w:footerReference r:id="rId8" w:type="default"/>
+          <w:pgSz w:w="11907" w:h="16840"/>
+          <w:pgMar w:top="1134" w:right="1418" w:bottom="1134" w:left="1701" w:header="709" w:footer="709" w:gutter="0"/>
+          <w:cols w:space="708" w:num="1"/>
+          <w:titlePg/>
+          <w:docGrid w:linePitch="360" w:charSpace="0"/>
+        </w:sectPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:color w:val="000000" w:themeColor="text1"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w14:textFill>
+            <w14:solidFill>
+              <w14:schemeClr w14:val="tx1"/>
+            </w14:solidFill>
+          </w14:textFill>
+        </w:rPr>
+        <w:t>Hà Nội, năm 2026</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4934046A">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="360"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+        <w:t>LỜI NÓI ĐẦU</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="13CDA890">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:eastAsiaTheme="minorHAnsi"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:eastAsiaTheme="minorHAnsi"/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:tab/>
+      <w:t>(Cỡ chữ 13, thường, Times New Roman, 1.5 lines)</w:t></w:r>
+      
+    </w:p>
+    <w:p w14:paraId="53C845E6">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:br w:type="page"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="452E5B20">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="360"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+        <w:t>MỤC LỤC</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1E6ABAE9">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="360"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:t>(Đánh tự động với 3 mức)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7F913FC7">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="0248ABE9">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="38F7AB70">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:eastAsiaTheme="minorHAnsi"/>
+          <w:b/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:br w:type="page"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1078BE76">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="360" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+        <w:t>CHƯƠNG 1. GIỚI THIỆU VỀ MỘT SỐ KHÁI NIỆM</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="032F6606">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>1.1. Tổng quan về thiết kế kiến trúc phần mềm</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4C69ADA6">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>1.1.1. Khái niệm về thiết kế kiến trúc phần m</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>ề</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>m</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2030F425">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">a) Kiến trúc phần mềm </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="45DB8FA1">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Kiến trúc phần mềm là cấu trúc tổng thể của một hệ thống phần mềm, bao gồm các thành phần, mối quan hệ giữa các thành phần đó và các nguyên tắc chi phối việc thiết kế cũng như sự tiến hóa của hệ thống theo thời gian. Nói cách khác, kiến trúc phần mềm xác định các thành phần chính của hệ thống và cách chúng tương tác, phối hợp với nhau để cùng thực hiện các chức năng của hệ thống.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1286B0CA">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Kiến trúc phần mềm có ba đặc điểm nổi bật:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4AE1B578">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Tập trung vào các quyết định ở tầm cao, tức những lựa chọn mang tính nền tảng, ảnh hưởng đến toàn bộ hệ thống.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7D03B30C">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Khó thay đổi khi đã triển khai. Một khi hệ thống đã được xây dựng theo một kiến trúc nhất định, việc thay đổi sang kiến trúc khác đòi hỏi chi phí rất lớn, đôi khi phải làm lại từ đầu.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="09E6C60D">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Có tầm ảnh hưởng sâu rộng, tác động trực tiếp đến các thuộc tính phi chức năng như hiệu năng, khả năng mở rộng, độ tin cậy và bảo mật của toàn hệ thống, chứ không chỉ riêng một module nào.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="055ACC35">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Một số dạng kiến trúc phổ biến trong thực tế: kiến trúc 3 lớp (Presentation – Business – Data), kiến trúc Microservices, kiến trúc phân tán (Distributed Architecture), kiến trúc hướng sự kiện (Event-Driven), v.v.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="79FC4A65">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>1.1.2.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Tại sao cần phải thiết kế kiến trúc phần mềm</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4C1571E8">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">b) Thiết kế phần mềm </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2B714635">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Nếu kiến trúc trả lời câu hỏi &quot;hệ thống gồm những gì và các phần lớn liên hệ với nhau ra sao&quot;, thì thiết kế phần mềm là bước đi sâu hơn: đó là quá trình xây dựng chi tiết cách thức triển khai cụ thể cho từng thành phần đã được xác định trong kiến trúc.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="01C02E6C">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Thiết kế phần mềm tập trung vào:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1E761FBF">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="4B771819">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Mức độ module cụ thể trong hệ thống.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="479E580E">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Giao diện lập trình (API) giữa các module với nhau.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5014CC9E">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Thuật toán xử lý bên trong từng chức năng.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="084E7890">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Cấu trúc dữ liệu được sử dụng để lưu trữ và thao tác thông tin.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="42240A5D">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Ví dụ điển hình của thiết kế phần mềm: thiết kế Class Diagram cho một tính năng cụ thể (như tính năng đăng nhập, tính năng thanh toán), thiết kế giao diện người dùng (UI/UX) cho một màn hình chức năng.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="03D7410E">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>- Kiến trúc và thiết kế thường bị nhầm lẫn là một, nhưng thực chất đây là hai khái niệm khác nhau, thể hiện rõ qua nhiều tiêu chí.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="13E78D44">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>- Mức độ trừu tượng</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>: kiến trúc phần mềm ở mức cao, tập trung vào bức tranh tổng thể và cấu trúc lớn của hệ thống; trong khi đó thiết kế phần mềm ở mức trung bình đến thấp, đi sâu vào chi tiết bên trong từng module cụ thể.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6AEE21BC">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>- Phạm vi:</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> kiến trúc bao trùm toàn bộ hệ thống, xác định các thành phần chính và cách chúng tương tác với nhau ở cấp độ vĩ mô. Thiết kế thì thu hẹp lại, chỉ xoay quanh từng module hoặc từng lớp riêng lẻ.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="52C336DD">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>- Mục tiêu:</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> kiến trúc hướng đến những thuộc tính mang tính dài hạn của hệ thống như khả năng mở rộng, khả năng bảo trì và hiệu năng tổng thể. Thiết kế lại hướng đến mục tiêu ngắn hạn và trực tiếp hơn — cài đặt được chức năng một cách hiệu quả và dễ hiểu.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6800F502">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>- Thành phần mô tả:</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> kiến trúc quan tâm đến các thành phần chính, các kết nối giữa chúng và các mô hình tổng thể của hệ thống. Thiết kế lại đi vào giao diện lớp, thuật toán xử lý, cấu trúc dữ liệu và luồng xử lý nội bộ bên trong từng module.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4294D9AE">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>- Tài liệu hóa:</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> kiến trúc được thể hiện qua các mô hình kiến trúc, sơ đồ cấp cao như sơ đồ triển khai hay sơ đồ thành phần. Thiết kế lại được tài liệu hóa bằng các sơ đồ chi tiết hơn như sơ đồ lớp, sơ đồ tuần tự, sơ đồ hoạt động.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2EF3F889">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>- Người thực hiện:</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> kiến trúc thường do kỹ sư kiến trúc phần mềm đảm nhiệm, người có tầm nhìn tổng thể về hệ thống. Thiết kế thì do lập trình viên thiết kế thực hiện, dựa trên khung kiến trúc đã được xác định từ trước.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6688F3E1">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>- Có thể hình dung mối quan hệ này theo hướng kiến trúc là bản vẽ tổng thể của tòa nhà: số tầng, kết cấu chịu lực, cách bố trí các khối chức năng. Thiết kế là bản vẽ chi tiết cho từng phòng trong tòa nhà đó: vị trí ổ điện, kích thước cửa, cách bố trí nội thất. Cả hai đều cần thiết và bổ sung cho nhau trong quá trình xây dựng một hệ thống phần mềm hoàn chỉnh — thiếu kiến trúc, hệ thống dễ mất phương hướng khi mở rộng; thiếu thiết kế chi tiết, kiến trúc dù tốt đến đâu cũng không thể chuyển thành sản phẩm chạy được trong thực tế.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0EF07CE2">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Mối quan hệ giữa kiến trúc phần mềm với các giai đoạn khác trong quy trình phát triển</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2E7187D9">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Kiến trúc phần mềm không tồn tại độc lập mà xuyên suốt và chi phối các giai đoạn khác của quy trình phát triển phần mềm:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5C7D3932">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Phân tích yêu cầu</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">: </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>kiến trúc được đề xuất ngay từ giai đoạn này để đáp ứng đồng thời cả yêu cầu chức năng lẫn yêu cầu phi chức năng (hiệu năng, bảo mật, khả năng mở rộng...) mà hệ thống cần đạt được.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4BE477CD">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Cài đặt</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">: </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>như đã nêu ở mục trước, thiết kế chi tiết được xây dựng dựa trên kiến trúc chính là cơ sở trực tiếp để lập trình viên viết code.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7F215009">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Kiểm thử</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>:</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>một kiến trúc rõ ràng, phân tách thành các thành phần độc lập sẽ hỗ trợ việc kiểm thử ở cả hai cấp độ: kiểm thử từng module (unit test) và kiểm thử toàn hệ thống.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="54EBF35C">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Vận hành và bảo trì — kiến trúc tốt giúp hệ thống dễ mở rộng khi có nhu cầu phát triển thêm, dễ khắc phục lỗi khi phát sinh sự cố, và dễ tích hợp với các hệ thống hoặc dịch vụ khác về sau.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7F6D8C48">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5A52AAD3">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Như vậy, kiến trúc phần mềm giữ vai trò xuyên suốt, kết nối và định hướng cho toàn bộ vòng đời phát triển phần mềm, chứ không chỉ dừng lại ở bước thiết kế ban đầu.</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="62F4A273">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5E08FA08">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>1.2.Các kiểu kiến trúc thường dùng</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="196CE019">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">1.2.1. </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Kiến trúc phân lớp </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="63A7CE49">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Định nghĩa: Là mô hình phần mềm trong đó hệ thống được chia thành nhiều lớp riêng biệt, mỗi lớp đảm nhận một vai trò nhất định và tương tác với nhau theo chiều dọc từ trên xuống dưới.  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="00DDD4BC">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Thành phần cấu trúc: Gồm 4 lớp chính: Presentation Layer (Tầng hiển thị/UI), Business Layer, Persistence Layer (Tầng giao tiếp dữ liệu), và Database Layer (Tầng cơ sở dữ liệu).  </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- - </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Ứng dụng thực tế: Thường dùng cho các ứng dụng Web, hệ thống doanh nghiệp truyền thống.  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5936E5DF">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="2A1D70FC">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">1.2.2. </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Kiến trúc vi dịch vụ</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7436F599">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Định nghĩa: Là kiểu kiến trúc phân tán, chia nhỏ hệ thống thành nhiều dịch vụ độc lập, gọn nhẹ và có kích thước nhỏ.  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0A9C1844">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Đặc điểm cốt lõi: Các dịch vụ thực hiện các chức năng business riêng biệt, giao tiếp với nhau chủ yếu qua giao thức mạng hoặc API. Có thể phát triển, triển khai và mở rộng từng dịch vụ một cách độc lập.  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="755E11BB">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Ứng dụng thực tế: Thường dùng cho các hệ thống lớn, các nền tảng phần mềm dạng dịch vụ.  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="27D409EE">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>1.2.3. Kiến trúc hướng sự kiện</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="14D488E5">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- Định nghĩa: Là kiến trúc phần mềm trong đó các thành phần tương tác, phản hồi và xử lý dựa trên các sự kiện (thông báo hoặc tín hiệu về sự thay đổi trạng thái).  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="222987A5">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- Thành phần cốt lõi: bao gồm Event Producers , Event Channels (Kênh truyền tải như Kafka, RabbitMQ), Event Processors  và Event Consumers .  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="39A518DB">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- Ứng dụng thực tế: Phù hợp với hệ thống IoT, Tài chính, hệ thống thời gian thực như Uber, Netflix.  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="46EEAFA4">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:eastAsia="SimSun" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">1.2.4. </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:eastAsia="SimSun" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Kiến trúc CQRS (Command Query Responsibility Segregation)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2D30CF6B">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:eastAsia="SimSun" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:eastAsia="SimSun" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- Định nghĩa: Là mô hình kiến trúc thực hiện việc tách biệt hoàn toàn giữa tác vụ đọc dữ liệu  và ghi dữ liệu  thành các luồng xử lý riêng biệt.  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3E2103F4">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:eastAsia="SimSun" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:eastAsia="SimSun" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- Mục đích: Giúp tối ưu hóa hiệu suất, tính bảo mật và khả năng mở rộng của hệ thống bằng cách không bắt một cơ sở dữ liệu duy nhất gánh cả hai tác vụ.  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="11D71885">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:eastAsia="SimSun" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:eastAsia="SimSun" w:cs="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- Ứng dụng thực tế: Áp dụng cho các hệ thống có lượng truy cập đọc/ghi dữ liệu cực kỳ cao.  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="28E45AD0">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>1.2.5. Kiến trúc Client - Server</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="546D80AF">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- Định nghĩa: Là kiến trúc hoạt động theo nguyên tắc thiết kế phân định rõ ràng vai trò giữa bên gửi yêu cầu dịch vụ (Client - Frontend) và bên xử lý yêu cầu/cung cấp dịch vụ (Server - Backend). </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="03062744">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> - Đặc điểm: Client gửi yêu cầu qua môi trường mạng, Server nhận thông tin, xử lý logic, truy vấn cơ sở dữ liệu và trả kết quả về cho Client.  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5D390733">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- Ứng dụng thực tế: Phổ biến nhất trong các ứng dụng Web và ứng dụng di động (Mobile App) ngày nay.  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="468431BD">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="720"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5874F05B">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="720"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="1935C4F4">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="720"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="3ED17BB7">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="720"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="0583E25E">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="2F8FDD2F">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:eastAsiaTheme="minorHAnsi"/>
+          <w:b/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="3D250DEB">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:eastAsiaTheme="minorHAnsi"/>
+          <w:b/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="5193D2E7">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:br w:type="page"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2F0EBC4A">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="360" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+        <w:t>CHƯƠNG 2. GIỚI THIỆU, MÔ TẢ ĐỀ TÀI</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="635A2A96">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>2.1. Giới thiệu bài toán tổng thể (bài toán cả 3 nhóm)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1520B62E">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">2.1.1. </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Phạm vi nghiệp vụ của Hệ thống Quản lý nhân sự &amp; Chấm công</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="014B7EB5">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Hệ thống là một giải pháp quản trị toàn diện bao quát toàn bộ các hoạt động hành chính và vận hành nhân sự hằng ngày trong doanh nghiệp với ba trục nghiệp vụ cốt lõi</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="449B6270">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Quản lý thực thể nhân sự giúp định danh phân cấp và lưu trữ toàn bộ cây cấu trúc tổ chức của doanh nghiệp gồm phòng ban tổ đội chức vụ đồng thời quản lý thông tin định danh cá nhân lịch sử công tác trạng thái lao động và các điều khoản hợp đồng của từng nhân viên</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="058425E0">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Quản lý dữ liệu thời gian làm việc thực hiện ghi nhận và xử lý dòng dữ liệu check-in ghi nhận giờ vào làm và check-out ghi nhận giờ tan làm hằng ngày của người lao động quản lý việc phân ca đổi ca kiểm soát đi muộn về sớm và xử lý các loại đơn từ hành chính như nghỉ phép công tác làm thêm giờ</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="60B82224">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Quản lý tài chính nhân sự phụ trách xử lý và tính toán các dòng tiền liên quan đến người lao động bao gồm lương cơ bản các khoản phụ cấp theo vị trí bảo hiểm xã hội thuế thu nhập cá nhân các khoản phạt kỷ luật hoặc thưởng năng suất dựa trên dữ liệu công thực tế</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1302B970">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">2.1.2. </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Mối quan hệ và Luồng dịch chuyển dữ liệu tổng thể</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="188A669F">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Hệ thống hoạt động dựa trên sự liên thông dữ liệu khép kín trong đó đầu ra của quy trình nghiệp vụ này là đầu vào bắt buộc của quy trình nghiệp vụ tiếp theo</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="54D020CD">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Giai đoạn khởi tạo dữ liệu nền tảng thiết lập thông tin từ hồ sơ nhân sự bao gồm mức lương cơ bản hệ số phụ cấp phòng ban làm việc và quy định ca mặc định để làm tham số gốc cho các cấu phần khác tham chiếu</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1EDE73FB">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Giai đoạn vận hành dữ liệu biến động ghi nhận tương tác hằng ngày của nhân viên với hệ thống để sinh ra dữ liệu thời gian chấm công thông qua các lượt quét check-in check-out tại nơi làm việc và dữ liệu đơn từ hành chính rồi đối chiếu liên tục với cấu hình ca mặc định để tự động tổng hợp thành một bảng công hoàn chỉnh vào cuối tháng</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4F78A0EF">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Giai đoạn kết xuất dữ liệu tài chính và báo cáo tiếp nhận bảng công tổng hợp đã qua phê duyệt bao gồm số ngày công thực tế số giờ làm thêm số ngày nghỉ không lương để đổ về luồng tính lương từ đó hệ thống kết hợp giữa thông tin lương gốc ban đầu và dữ liệu công thực tế để áp công thức tính toán cho ra bảng lương tổng thể cùng phiếu lương chi tiết cho từng nhân sự</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="61C2C830">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>2.2. Service nhóm thực hiện (công việc nhóm làm)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0886D1B3">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">2.2.1. </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Nghiệp vụ lưu trữ nền tảng trong HR Core Service</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4E02A79C">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Dịch vụ quản lý nhân sự cốt lõi đảm nhiệm vai trò xây dựng cấu trúc sơ đồ tổ chức toàn diện cho doanh nghiệp thông qua việc định nghĩa các phòng ban chức vụ tổ đội và các mối quan hệ phân cấp hành chính trong nội bộ công ty</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0297AA3C">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Hệ thống chịu trách nhiệm lưu trữ toàn bộ hồ sơ lý lịch chi tiết của người lao động bao gồm thông tin định danh cá nhân lịch sử công tác quá trình khen thưởng kỷ luật đi kèm với việc quản lý vòng đời của các hợp đồng lao động và thiết lập các thông số lương gốc làm căn cứ tham chiếu cho các phân hệ khác</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0F6A6650">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">2.2.2. </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Nghiệp vụ theo dõi thời gian và đơn từ trong Attendance Service</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="09A5E05F">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Dịch vụ chấm công tập trung vào việc quản lý lịch trình làm việc hằng ngày của nhân viên thông qua các chức năng cấu hình ca làm việc phân chia ca trực linh hoạt và quản lý việc đổi ca giữa các nhân sự trong cùng bộ phận</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="26521A09">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve"> </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Hệ thống tiến hành ghi nhận dòng dữ liệu check-in ghi nhận giờ vào làm và check-out ghi nhận giờ tan làm thực tế của người lao động tại nơi làm việc làm cơ sở đối chiếu tự động với cấu hình ca mặc định để kiểm soát tình trạng đi muộn về sớm đồng thời xử lý phê duyệt luồng đơn từ hành chính trực tuyến như đơn xin nghỉ phép đơn xin đi muộn đơn xin làm thêm giờ để tổng hợp ra bảng công cuối tháng</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>.</w:t>
+      </w:r>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b w:val="0"/>
+          <w:bCs w:val="0"/>
+          <w:i w:val="0"/>
+          <w:iCs w:val="0"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t xml:space="preserve">  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7FE3CC79">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:eastAsiaTheme="minorHAnsi"/>
+          <w:b/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:eastAsiaTheme="minorHAnsi"/>
+          <w:b/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t>2.2.3. Nghiệp vụ tính toán tài chính và kết xuất báo cáo trong Payroll và Report Service</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6DF0039F">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:eastAsiaTheme="minorHAnsi"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:eastAsiaTheme="minorHAnsi"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- Dịch vụ tính lương và báo cáo đóng vai trò hoàn thiện chu trình vận hành bằng cách tiếp nhận dữ liệu tham số lương gốc từ HR Core Service kết hợp với bảng công tổng hợp đã qua phê duyệt từ Attendance Service bao gồm số ngày công thực tế số giờ tăng ca số ngày nghỉ không phép hoặc nghỉ chế độ.  </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="637E0A04">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:eastAsiaTheme="minorHAnsi"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:eastAsiaTheme="minorHAnsi"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">- </w:t>
+      </w:r>
+      <w:bookmarkStart w:id="16" w:name="_GoBack"/>
+      <w:bookmarkEnd w:id="16"/>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:hint="default" w:eastAsiaTheme="minorHAnsi"/>
+          <w:b w:val="0"/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+          <w:lang w:val="en-US"/>
+        </w:rPr>
+        <w:t xml:space="preserve">Phân hệ tự động áp dụng các thuật toán để tính toán chi tiết bảng lương hằng tháng xử lý các khoản phụ cấp theo vị trí trích đóng các loại bảo hiểm xã hội tính thuế thu nhập cá nhân áp các khoản phạt kỷ luật hoặc thưởng năng suất từ đó xuất phiếu lương điện tử cho từng nhân viên và kết xuất hệ thống biểu đồ báo cáo nhân sự trực quan cho ban giám đốc. </w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="612844C0">
+      <w:pPr>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:br w:type="page"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="60E27142">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="360" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+        <w:t>CHƯƠNG 3. TRIỂN KHAI ỨNG DỤNG</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6A1FE650">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>3.1. Tiểu mục 1(Giải thích mã nguồn)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="64D37622">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>3.1.1. Tiêu mục con</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1F67E5D9">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="6FE97418">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="6A17BABF">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>3.1.2. Tiêu mục con</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2B641F4F">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="3B11DF15">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="37A80A1D">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>3.2. Tiểu mục 2(Thử nghiệm thay đổi tham số)</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4498BA13">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>3.2.1. Tiêu mục con</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="322745F1">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="27B2FCA1">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="18926A4F">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+          <w:b/>
+          <w:bCs/>
+          <w:i/>
+          <w:iCs/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>3.2.2. Tiêu mục con</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4405068E">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:bCs/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="0FD955B9">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:eastAsiaTheme="minorHAnsi"/>
+          <w:b/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:sz w:val="28"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:br w:type="page"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1FBA4F69">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+        <w:t>KẾT LUẬN</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="07BED5DF">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="3F1F8508">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+        <w:t>Đánh giá nhận xét và đề xuất cải tiến</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="49852145">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+        <w:rPr>
+          <w:rFonts w:eastAsiaTheme="minorHAnsi"/>
+          <w:b/>
+          <w:i/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:b/>
+          <w:i/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+        <w:br w:type="page"/>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="135A41C4">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="360"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:sz w:val="32"/>
+          <w:szCs w:val="32"/>
+        </w:rPr>
+        <w:t>DANH MỤC TÀI LIỆU THAM KHẢO</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0899ACAF">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="426"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:eastAsia="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Tài liệu 1</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0A827D0F">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="426"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Tài liệu 2</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="4B0466DD">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="2"/>
+        </w:numPr>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="426"/>
+        <w:jc w:val="both"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="26"/>
+        </w:rPr>
+        <w:t>Tài liệu 3</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="02EB11E4">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="360"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:i/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="0F1A16FF">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:b/>
+          <w:i/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="76F0ECD5">
+      <w:pPr>
+        <w:pStyle w:val="10"/>
+        <w:spacing w:line="336" w:lineRule="auto"/>
+        <w:ind w:left="0" w:firstLine="360"/>
+        <w:jc w:val="center"/>
+        <w:rPr>
+          <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+          <w:b/>
+          <w:i/>
+          <w:sz w:val="26"/>
+          <w:szCs w:val="28"/>
+        </w:rPr>
+      </w:pPr>
+    </w:p>
+    <w:p w14:paraId="13BAA111">
+      <w:pPr>
+        <w:spacing w:after="160" w:line="259" w:lineRule="auto"/>
+        <w:jc w:val="left"/>
+      </w:pPr>
+    </w:p>
+    <w:sectPr>
+      <w:headerReference r:id="rId9" w:type="default"/>
+      <w:pgSz w:w="12240" w:h="15840"/>
+      <w:pgMar w:top="1134" w:right="851" w:bottom="1134" w:left="1701" w:header="567" w:footer="567" w:gutter="0"/>
+      <w:cols w:space="708" w:num="1"/>
+      <w:titlePg/>
+      <w:docGrid w:linePitch="360" w:charSpace="0"/>
+    </w:sectPr>
+  </w:body>
+</w:document>

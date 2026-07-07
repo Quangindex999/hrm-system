@@ -1,0 +1,131 @@
+version: '3.8'
+
+services:
+  # ==========================================
+  # DATABASES & MESSAGE BROKERS
+  # ==========================================
+  # Shared SQL Server cho HR và Attendance
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: shared-mssql
+    ports:
+      - "1433:1433"
+    environment:
+      SA_PASSWORD: "YourPassword123!"
+      ACCEPT_EULA: "Y"
+    volumes:
+      - mssql_data:/var/opt/mssql
+    healthcheck:
+      test: ["CMD", "/opt/mssql-tools/bin/sqlcmd", "-S", "localhost", "-U", "sa", "-P", "YourPassword123!", "-Q", "SELECT 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  payroll-db:
+    image: mysql:8.0
+    container_name: payroll-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456789Mquan@
+      MYSQL_DATABASE: payrolldb
+    ports:
+      - "3307:3306"
+    volumes:
+      - payroll-db-data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-p123456789Mquan@"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  # ==========================================
+  # BACKEND MICROSERVICES
+  # ==========================================
+  hr-api:
+    build:
+      context: ./HRCoreService
+      dockerfile: HRCoreService/Dockerfile
+    container_name: hr-api
+    ports:
+      - "8081:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__HRCoreDB=Server=mssql;Database=HRCoreDB;User Id=sa;Password=YourPassword123!;Encrypt=False;TrustServerCertificate=True;MultipleActiveResultSets=true;
+    depends_on:
+      mssql:
+        condition: service_healthy
+    restart: unless-stopped
+
+  attendance-api:
+    build:
+      context: ./attendance-service
+      dockerfile: API/Dockerfile
+    container_name: attendance-api
+    ports:
+      - "8082:8080"
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=mssql;Database=AttendanceDB;User Id=sa;Password=YourPassword123!;Encrypt=False;TrustServerCertificate=True;
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ExternalServices__HrServiceUrl=http://hr-api:8080
+    depends_on:
+      mssql:
+        condition: service_healthy
+
+    restart: unless-stopped
+
+  payroll-api:
+    build:
+      context: ./payroll-service
+      dockerfile: Dockerfile
+    container_name: payroll-api
+    ports:
+      - "5000:5000"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://0.0.0.0:5000
+      - ConnectionStrings__DefaultConnection=server=payroll-db;port=3306;database=payrolldb;user=root;password=123456789Mquan@;
+      - HrService__BaseUrl=http://hr-api:8080
+      - HrService__EmployeesEndpoint=/api/v1/hr/Employees
+      - HrService__EmployeeByIdEndpoint=/api/v1/hr/Employees/{id}
+      - HrService__ContractsEndpoint=/api/contracts
+      - HrService__ContractTypesEndpoint=/api/contracts/types
+      - AttendanceService__BaseUrl=http://attendance-api:8080
+      - Jwt__Secret=HrCore_BTL_7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f
+      - Jwt__Issuer=UserAuthService
+      - Jwt__Audience=AllMicroservices
+      - Jwt__ExpiryMinutes=60
+      - Email__SmtpHost=smtp.gmail.com
+      - Email__SmtpPort=587
+      - Email__Username=your-email@gmail.com
+      - Email__Password=your-app-password
+      - Email__FromEmail=your-email@gmail.com
+      - Email__FromName=Phòng Nhân sự - HRM System
+    depends_on:
+      payroll-db:
+        condition: service_healthy
+    restart: unless-stopped
+
+  # ==========================================
+  # FRONTEND WEB
+  # ==========================================
+  frontend:
+    build:
+      context: ./Front_end
+      dockerfile: Dockerfile
+    container_name: frontend
+    ports:
+      - "80:80"
+    environment:
+      - VITE_HR_URL=http://hr-api:8080
+      - VITE_ATTEND_URL=http://attendance-api:8080
+      - VITE_PAYROLL_URL=http://payroll-api:5000
+    depends_on:
+      - hr-api
+      - attendance-api
+      - payroll-api
+    restart: unless-stopped
+
+volumes:
+  mssql_data:
+  payroll-db-data:

@@ -1,0 +1,196 @@
+0: TRƯỜNG ĐẠI HỌC ĐẠI NAM
+1: KHOA CÔNG NGHỆ THÔNG TIN
+2: BÀI TẬP LỚN
+3: HỌC PHẦN: THIẾT KẾ &KIẾN TRÚC PHẦN MỀM
+4: ĐỀ TÀI:  …………………………………………………….….
+5: Giảng viên:  ThS. 
+6: Đỗ Quang Thơ
+7: Sinh viên thực hiện:
+8: Họ và tên – Mã sinh viên
+9: Họ và tên – Mã sinh viên
+10:  
+11:  
+12: Hà Nội, năm 2026
+13: TRƯỜNG ĐẠI HỌC ĐẠI NAM
+14: KHOA CÔNG NGHỆ THÔNG TIN
+15: BÀI TẬP LỚN
+16: HỌC PHẦN: THIẾT KẾ &KIẾN TRÚC PHẦN MỀM
+17: ĐỀ TÀI:  …………………………………………………….….
+18: TT
+19: Mã
+20:  
+21: sv
+22: Họ và Tên
+23: Ngày
+24:  
+25: Sinh
+26: Điểm
+27: Bằng
+28:  Số
+29: Bằng
+30:  Chữ
+31: 1
+32: 2
+33: 3
+34: CÁN BỘ CHẤM THI 1
+35: ThS. Đỗ Quang Thơ
+36: CÁN BỘ CHẤM THI 2
+37:                                                                
+38: Hà Nội, năm 2026
+39: LỜI NÓI ĐẦU
+40: (Cỡ chữ 13, thường, Times New Roman, 1.5 lines)
+41: MỤC LỤC
+42: (Đánh tự động với 3 mức)
+43: CHƯƠNG 1. GIỚI THIỆU VỀ MỘT SỐ KHÁI NIỆM
+44: 1.1. Tổng quan về thiết kế kiến trúc phần mềm
+45: 1.1.1. Khái niệm về thiết kế kiến trúc phần m
+46: ề
+47: m
+48: a) Kiến trúc phần mềm 
+49: - 
+50: Kiến trúc phần mềm là cấu trúc tổng thể của một hệ thống phần mềm, bao gồm các thành phần, mối quan hệ giữa các thành phần đó và các nguyên tắc chi phối việc thiết kế cũng như sự tiến hóa của hệ thống theo thời gian. Nói cách khác, kiến trúc phần mềm xác định các thành phần chính của hệ thống và cách chúng tương tác, phối hợp với nhau để cùng thực hiện các chức năng của hệ thống.
+51: Kiến trúc phần mềm có ba đặc điểm nổi bật:
+52: - 
+53: Tập trung vào các quyết định ở tầm cao, tức những lựa chọn mang tính nền tảng, ảnh hưởng đến toàn bộ hệ thống.
+54: - 
+55: Khó thay đổi khi đã triển khai. Một khi hệ thống đã được xây dựng theo một kiến trúc nhất định, việc thay đổi sang kiến trúc khác đòi hỏi chi phí rất lớn, đôi khi phải làm lại từ đầu.
+56: - 
+57: Có tầm ảnh hưởng sâu rộng, tác động trực tiếp đến các thuộc tính phi chức năng như hiệu năng, khả năng mở rộng, độ tin cậy và bảo mật của toàn hệ thống, chứ không chỉ riêng một module nào.
+58: - 
+59: Một số dạng kiến trúc phổ biến trong thực tế: kiến trúc 3 lớp (Presentation – Business – Data), kiến trúc Microservices, kiến trúc phân tán (Distributed Architecture), kiến trúc hướng sự kiện (Event-Driven), v.v.
+60: 1.1.2.
+61: Tại sao cần phải thiết kế kiến trúc phần mềm
+62: b) Thiết kế phần mềm 
+63: - 
+64: Nếu kiến trúc trả lời câu hỏi "hệ thống gồm những gì và các phần lớn liên hệ với nhau ra sao", thì thiết kế phần mềm là bước đi sâu hơn: đó là quá trình xây dựng chi tiết cách thức triển khai cụ thể cho từng thành phần đã được xác định trong kiến trúc.
+65: Thiết kế phần mềm tập trung vào:
+66: Mức độ module cụ thể trong hệ thống.
+67: - 
+68: Giao diện lập trình (API) giữa các module với nhau.
+69: - 
+70: Thuật toán xử lý bên trong từng chức năng.
+71: - 
+72: Cấu trúc dữ liệu được sử dụng để lưu trữ và thao tác thông tin.
+73: Ví dụ điển hình của thiết kế phần mềm: thiết kế Class Diagram cho một tính năng cụ thể (như tính năng đăng nhập, tính năng thanh toán), thiết kế giao diện người dùng (UI/UX) cho một màn hình chức năng.
+74: - Kiến trúc và thiết kế thường bị nhầm lẫn là một, nhưng thực chất đây là hai khái niệm khác nhau, thể hiện rõ qua nhiều tiêu chí.
+75: - Mức độ trừu tượng
+76: : kiến trúc phần mềm ở mức cao, tập trung vào bức tranh tổng thể và cấu trúc lớn của hệ thống; trong khi đó thiết kế phần mềm ở mức trung bình đến thấp, đi sâu vào chi tiết bên trong từng module cụ thể.
+77: - Phạm vi:
+78:  kiến trúc bao trùm toàn bộ hệ thống, xác định các thành phần chính và cách chúng tương tác với nhau ở cấp độ vĩ mô. Thiết kế thì thu hẹp lại, chỉ xoay quanh từng module hoặc từng lớp riêng lẻ.
+79: - Mục tiêu:
+80:  kiến trúc hướng đến những thuộc tính mang tính dài hạn của hệ thống như khả năng mở rộng, khả năng bảo trì và hiệu năng tổng thể. Thiết kế lại hướng đến mục tiêu ngắn hạn và trực tiếp hơn — cài đặt được chức năng một cách hiệu quả và dễ hiểu.
+81: - Thành phần mô tả:
+82:  kiến trúc quan tâm đến các thành phần chính, các kết nối giữa chúng và các mô hình tổng thể của hệ thống. Thiết kế lại đi vào giao diện lớp, thuật toán xử lý, cấu trúc dữ liệu và luồng xử lý nội bộ bên trong từng module.
+83: - Tài liệu hóa:
+84:  kiến trúc được thể hiện qua các mô hình kiến trúc, sơ đồ cấp cao như sơ đồ triển khai hay sơ đồ thành phần. Thiết kế lại được tài liệu hóa bằng các sơ đồ chi tiết hơn như sơ đồ lớp, sơ đồ tuần tự, sơ đồ hoạt động.
+85: - Người thực hiện:
+86:  kiến trúc thường do kỹ sư kiến trúc phần mềm đảm nhiệm, người có tầm nhìn tổng thể về hệ thống. Thiết kế thì do lập trình viên thiết kế thực hiện, dựa trên khung kiến trúc đã được xác định từ trước.
+87: - Có thể hình dung mối quan hệ này theo hướng kiến trúc là bản vẽ tổng thể của tòa nhà: số tầng, kết cấu chịu lực, cách bố trí các khối chức năng. Thiết kế là bản vẽ chi tiết cho từng phòng trong tòa nhà đó: vị trí ổ điện, kích thước cửa, cách bố trí nội thất. Cả hai đều cần thiết và bổ sung cho nhau trong quá trình xây dựng một hệ thống phần mềm hoàn chỉnh — thiếu kiến trúc, hệ thống dễ mất phương hướng khi mở rộng; thiếu thiết kế chi tiết, kiến trúc dù tốt đến đâu cũng không thể chuyển thành sản phẩm chạy được trong thực tế.
+88: Mối quan hệ giữa kiến trúc phần mềm với các giai đoạn khác trong quy trình phát triển
+89: Kiến trúc phần mềm không tồn tại độc lập mà xuyên suốt và chi phối các giai đoạn khác của quy trình phát triển phần mềm:
+90: - 
+91: Phân tích yêu cầu
+92: : 
+93: kiến trúc được đề xuất ngay từ giai đoạn này để đáp ứng đồng thời cả yêu cầu chức năng lẫn yêu cầu phi chức năng (hiệu năng, bảo mật, khả năng mở rộng...) mà hệ thống cần đạt được.
+94: - 
+95: Cài đặt
+96: : 
+97: như đã nêu ở mục trước, thiết kế chi tiết được xây dựng dựa trên kiến trúc chính là cơ sở trực tiếp để lập trình viên viết code.
+98: - 
+99: Kiểm thử
+100: :
+101:  
+102: một kiến trúc rõ ràng, phân tách thành các thành phần độc lập sẽ hỗ trợ việc kiểm thử ở cả hai cấp độ: kiểm thử từng module (unit test) và kiểm thử toàn hệ thống.
+103: Vận hành và bảo trì — kiến trúc tốt giúp hệ thống dễ mở rộng khi có nhu cầu phát triển thêm, dễ khắc phục lỗi khi phát sinh sự cố, và dễ tích hợp với các hệ thống hoặc dịch vụ khác về sau.
+104: Như vậy, kiến trúc phần mềm giữ vai trò xuyên suốt, kết nối và định hướng cho toàn bộ vòng đời phát triển phần mềm, chứ không chỉ dừng lại ở bước thiết kế ban đầu.
+105: 1.2.Các kiểu kiến trúc thường dùng
+106: 1.2.1. 
+107: Kiến trúc phân lớp 
+108: - 
+109: Định nghĩa: Là mô hình phần mềm trong đó hệ thống được chia thành nhiều lớp riêng biệt, mỗi lớp đảm nhận một vai trò nhất định và tương tác với nhau theo chiều dọc từ trên xuống dưới.  
+110: - 
+111: Thành phần cấu trúc: Gồm 4 lớp chính: Presentation Layer (Tầng hiển thị/UI), Business Layer, Persistence Layer (Tầng giao tiếp dữ liệu), và Database Layer (Tầng cơ sở dữ liệu).  
+112: - - 
+113: Ứng dụng thực tế: Thường dùng cho các ứng dụng Web, hệ thống doanh nghiệp truyền thống.  
+114: 1.2.2. 
+115: Kiến trúc vi dịch vụ
+116: - 
+117: Định nghĩa: Là kiểu kiến trúc phân tán, chia nhỏ hệ thống thành nhiều dịch vụ độc lập, gọn nhẹ và có kích thước nhỏ.  
+118: - 
+119: Đặc điểm cốt lõi: Các dịch vụ thực hiện các chức năng business riêng biệt, giao tiếp với nhau chủ yếu qua giao thức mạng hoặc API. Có thể phát triển, triển khai và mở rộng từng dịch vụ một cách độc lập.  
+120: - 
+121: Ứng dụng thực tế: Thường dùng cho các hệ thống lớn, các nền tảng phần mềm dạng dịch vụ.  
+122: 1.2.3. Kiến trúc hướng sự kiện
+123: - Định nghĩa: Là kiến trúc phần mềm trong đó các thành phần tương tác, phản hồi và xử lý dựa trên các sự kiện (thông báo hoặc tín hiệu về sự thay đổi trạng thái).  
+124: - Thành phần cốt lõi: bao gồm Event Producers , Event Channels (Kênh truyền tải như Kafka, RabbitMQ), Event Processors  và Event Consumers .  
+125: - Ứng dụng thực tế: Phù hợp với hệ thống IoT, Tài chính, hệ thống thời gian thực như Uber, Netflix.  
+126: 1.2.4. 
+127: Kiến trúc CQRS (Command Query Responsibility Segregation)
+128: - Định nghĩa: Là mô hình kiến trúc thực hiện việc tách biệt hoàn toàn giữa tác vụ đọc dữ liệu  và ghi dữ liệu  thành các luồng xử lý riêng biệt.  
+129: - Mục đích: Giúp tối ưu hóa hiệu suất, tính bảo mật và khả năng mở rộng của hệ thống bằng cách không bắt một cơ sở dữ liệu duy nhất gánh cả hai tác vụ.  
+130: - Ứng dụng thực tế: Áp dụng cho các hệ thống có lượng truy cập đọc/ghi dữ liệu cực kỳ cao.  
+131: 1.2.5. Kiến trúc Client - Server
+132: - Định nghĩa: Là kiến trúc hoạt động theo nguyên tắc thiết kế phân định rõ ràng vai trò giữa bên gửi yêu cầu dịch vụ (Client - Frontend) và bên xử lý yêu cầu/cung cấp dịch vụ (Server - Backend). 
+133:  - Đặc điểm: Client gửi yêu cầu qua môi trường mạng, Server nhận thông tin, xử lý logic, truy vấn cơ sở dữ liệu và trả kết quả về cho Client.  
+134: - Ứng dụng thực tế: Phổ biến nhất trong các ứng dụng Web và ứng dụng di động (Mobile App) ngày nay.  
+135: CHƯƠNG 2. GIỚI THIỆU, MÔ TẢ ĐỀ TÀI
+136: 2.1. Giới thiệu bài toán tổng thể (bài toán cả 3 nhóm)
+137: 2.1.1. 
+138: Phạm vi nghiệp vụ của Hệ thống Quản lý nhân sự & Chấm công
+139: - 
+140: Hệ thống là một giải pháp quản trị toàn diện bao quát toàn bộ các hoạt động hành chính và vận hành nhân sự hằng ngày trong doanh nghiệp với ba trục nghiệp vụ cốt lõi
+141: - 
+142: Quản lý thực thể nhân sự giúp định danh phân cấp và lưu trữ toàn bộ cây cấu trúc tổ chức của doanh nghiệp gồm phòng ban tổ đội chức vụ đồng thời quản lý thông tin định danh cá nhân lịch sử công tác trạng thái lao động và các điều khoản hợp đồng của từng nhân viên
+143: - 
+144: Quản lý dữ liệu thời gian làm việc thực hiện ghi nhận và xử lý dòng dữ liệu check-in ghi nhận giờ vào làm và check-out ghi nhận giờ tan làm hằng ngày của người lao động quản lý việc phân ca đổi ca kiểm soát đi muộn về sớm và xử lý các loại đơn từ hành chính như nghỉ phép công tác làm thêm giờ
+145: - 
+146: Quản lý tài chính nhân sự phụ trách xử lý và tính toán các dòng tiền liên quan đến người lao động bao gồm lương cơ bản các khoản phụ cấp theo vị trí bảo hiểm xã hội thuế thu nhập cá nhân các khoản phạt kỷ luật hoặc thưởng năng suất dựa trên dữ liệu công thực tế
+147: 2.1.2. 
+148: Mối quan hệ và Luồng dịch chuyển dữ liệu tổng thể
+149: - 
+150: Hệ thống hoạt động dựa trên sự liên thông dữ liệu khép kín trong đó đầu ra của quy trình nghiệp vụ này là đầu vào bắt buộc của quy trình nghiệp vụ tiếp theo
+151: - 
+152: Giai đoạn khởi tạo dữ liệu nền tảng thiết lập thông tin từ hồ sơ nhân sự bao gồm mức lương cơ bản hệ số phụ cấp phòng ban làm việc và quy định ca mặc định để làm tham số gốc cho các cấu phần khác tham chiếu
+153: - 
+154: Giai đoạn vận hành dữ liệu biến động ghi nhận tương tác hằng ngày của nhân viên với hệ thống để sinh ra dữ liệu thời gian chấm công thông qua các lượt quét check-in check-out tại nơi làm việc và dữ liệu đơn từ hành chính rồi đối chiếu liên tục với cấu hình ca mặc định để tự động tổng hợp thành một bảng công hoàn chỉnh vào cuối tháng
+155: - 
+156: Giai đoạn kết xuất dữ liệu tài chính và báo cáo tiếp nhận bảng công tổng hợp đã qua phê duyệt bao gồm số ngày công thực tế số giờ làm thêm số ngày nghỉ không lương để đổ về luồng tính lương từ đó hệ thống kết hợp giữa thông tin lương gốc ban đầu và dữ liệu công thực tế để áp công thức tính toán cho ra bảng lương tổng thể cùng phiếu lương chi tiết cho từng nhân sự
+157: 2.2. Service nhóm thực hiện (công việc nhóm làm)
+158: 2.2.1. 
+159: Nghiệp vụ lưu trữ nền tảng trong HR Core Service
+160: - 
+161: Dịch vụ quản lý nhân sự cốt lõi đảm nhiệm vai trò xây dựng cấu trúc sơ đồ tổ chức toàn diện cho doanh nghiệp thông qua việc định nghĩa các phòng ban chức vụ tổ đội và các mối quan hệ phân cấp hành chính trong nội bộ công ty
+162: .
+163:   
+164: - 
+165: Hệ thống chịu trách nhiệm lưu trữ toàn bộ hồ sơ lý lịch chi tiết của người lao động bao gồm thông tin định danh cá nhân lịch sử công tác quá trình khen thưởng kỷ luật đi kèm với việc quản lý vòng đời của các hợp đồng lao động và thiết lập các thông số lương gốc làm căn cứ tham chiếu cho các phân hệ khác
+166: .
+167:   
+168: 2.2.2. 
+169: Nghiệp vụ theo dõi thời gian và đơn từ trong Attendance Service
+170: - 
+171: Dịch vụ chấm công tập trung vào việc quản lý lịch trình làm việc hằng ngày của nhân viên thông qua các chức năng cấu hình ca làm việc phân chia ca trực linh hoạt và quản lý việc đổi ca giữa các nhân sự trong cùng bộ phận
+172: .
+173:  
+174:  
+175: - 
+176: Hệ thống tiến hành ghi nhận dòng dữ liệu check-in ghi nhận giờ vào làm và check-out ghi nhận giờ tan làm thực tế của người lao động tại nơi làm việc làm cơ sở đối chiếu tự động với cấu hình ca mặc định để kiểm soát tình trạng đi muộn về sớm đồng thời xử lý phê duyệt luồng đơn từ hành chính trực tuyến như đơn xin nghỉ phép đơn xin đi muộn đơn xin làm thêm giờ để tổng hợp ra bảng công cuối tháng
+177: .
+178:   
+179: 2.2.3. Nghiệp vụ tính toán tài chính và kết xuất báo cáo trong Payroll và Report Service
+180: - Dịch vụ tính lương và báo cáo đóng vai trò hoàn thiện chu trình vận hành bằng cách tiếp nhận dữ liệu tham số lương gốc từ HR Core Service kết hợp với bảng công tổng hợp đã qua phê duyệt từ Attendance Service bao gồm số ngày công thực tế số giờ tăng ca số ngày nghỉ không phép hoặc nghỉ chế độ.  
+181: - 
+182: Phân hệ tự động áp dụng các thuật toán để tính toán chi tiết bảng lương hằng tháng xử lý các khoản phụ cấp theo vị trí trích đóng các loại bảo hiểm xã hội tính thuế thu nhập cá nhân áp các khoản phạt kỷ luật hoặc thưởng năng suất từ đó xuất phiếu lương điện tử cho từng nhân viên và kết xuất hệ thống biểu đồ báo cáo nhân sự trực quan cho ban giám đốc. 
+183: CHƯƠNG 3. TRIỂN KHAI ỨNG DỤNG
+184: 3.1. Tiểu mục 1(Giải thích mã nguồn)
+185: 3.1.1. Tiêu mục con
+186: 3.1.2. Tiêu mục con
+187: 3.2. Tiểu mục 2(Thử nghiệm thay đổi tham số)
+188: 3.2.1. Tiêu mục con
+189: 3.2.2. Tiêu mục con
+190: KẾT LUẬN
+191: Đánh giá nhận xét và đề xuất cải tiến
+192: DANH MỤC TÀI LIỆU THAM KHẢO
+193: Tài liệu 1
+194: Tài liệu 2
+195: Tài liệu 3

@@ -1,0 +1,1459 @@
+﻿{
+    "openapi":  "3.0.4",
+    "info":  {
+                 "title":  "Attendance Service",
+                 "version":  "1.0"
+             },
+    "paths":  {
+                  "/api/Attendance/check-in":  {
+                                                   "post":  {
+                                                                "tags":  [
+                                                                             "Attendance"
+                                                                         ],
+                                                                "parameters":  [
+                                                                                   {
+                                                                                       "name":  "shiftId",
+                                                                                       "in":  "query",
+                                                                                       "schema":  {
+                                                                                                      "type":  "integer",
+                                                                                                      "format":  "int32"
+                                                                                                  }
+                                                                                   }
+                                                                               ],
+                                                                "requestBody":  {
+                                                                                    "content":  {
+                                                                                                    "application/json":  {
+                                                                                                                             "schema":  {
+                                                                                                                                            "type":  "string",
+                                                                                                                                            "format":  "uuid"
+                                                                                                                                        }
+                                                                                                                         },
+                                                                                                    "text/json":  {
+                                                                                                                      "schema":  {
+                                                                                                                                     "type":  "string",
+                                                                                                                                     "format":  "uuid"
+                                                                                                                                 }
+                                                                                                                  },
+                                                                                                    "application/*+json":  {
+                                                                                                                               "schema":  {
+                                                                                                                                              "type":  "string",
+                                                                                                                                              "format":  "uuid"
+                                                                                                                                          }
+                                                                                                                           }
+                                                                                                }
+                                                                                },
+                                                                "responses":  {
+                                                                                  "200":  {
+                                                                                              "description":  "OK",
+                                                                                              "content":  {
+                                                                                                              "text/plain":  {
+                                                                                                                                 "schema":  {
+                                                                                                                                                "$ref":  "#/components/schemas/CheckInResponse"
+                                                                                                                                            }
+                                                                                                                             },
+                                                                                                              "application/json":  {
+                                                                                                                                       "schema":  {
+                                                                                                                                                      "$ref":  "#/components/schemas/CheckInResponse"
+                                                                                                                                                  }
+                                                                                                                                   },
+                                                                                                              "text/json":  {
+                                                                                                                                "schema":  {
+                                                                                                                                               "$ref":  "#/components/schemas/CheckInResponse"
+                                                                                                                                           }
+                                                                                                                            }
+                                                                                                          }
+                                                                                          },
+                                                                                  "400":  {
+                                                                                              "description":  "Bad Request",
+                                                                                              "content":  {
+                                                                                                              "text/plain":  {
+                                                                                                                                 "schema":  {
+                                                                                                                                                "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                            }
+                                                                                                                             },
+                                                                                                              "application/json":  {
+                                                                                                                                       "schema":  {
+                                                                                                                                                      "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                  }
+                                                                                                                                   },
+                                                                                                              "text/json":  {
+                                                                                                                                "schema":  {
+                                                                                                                                               "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                           }
+                                                                                                                            }
+                                                                                                          }
+                                                                                          },
+                                                                                  "500":  {
+                                                                                              "description":  "Internal Server Error"
+                                                                                          }
+                                                                              }
+                                                            }
+                                               },
+                  "/api/Attendance/check-out":  {
+                                                    "post":  {
+                                                                 "tags":  [
+                                                                              "Attendance"
+                                                                          ],
+                                                                 "requestBody":  {
+                                                                                     "content":  {
+                                                                                                     "application/json":  {
+                                                                                                                              "schema":  {
+                                                                                                                                             "type":  "string",
+                                                                                                                                             "format":  "uuid"
+                                                                                                                                         }
+                                                                                                                          },
+                                                                                                     "text/json":  {
+                                                                                                                       "schema":  {
+                                                                                                                                      "type":  "string",
+                                                                                                                                      "format":  "uuid"
+                                                                                                                                  }
+                                                                                                                   },
+                                                                                                     "application/*+json":  {
+                                                                                                                                "schema":  {
+                                                                                                                                               "type":  "string",
+                                                                                                                                               "format":  "uuid"
+                                                                                                                                           }
+                                                                                                                            }
+                                                                                                 }
+                                                                                 },
+                                                                 "responses":  {
+                                                                                   "200":  {
+                                                                                               "description":  "OK",
+                                                                                               "content":  {
+                                                                                                               "text/plain":  {
+                                                                                                                                  "schema":  {
+                                                                                                                                                 "$ref":  "#/components/schemas/CheckOutResponse"
+                                                                                                                                             }
+                                                                                                                              },
+                                                                                                               "application/json":  {
+                                                                                                                                        "schema":  {
+                                                                                                                                                       "$ref":  "#/components/schemas/CheckOutResponse"
+                                                                                                                                                   }
+                                                                                                                                    },
+                                                                                                               "text/json":  {
+                                                                                                                                 "schema":  {
+                                                                                                                                                "$ref":  "#/components/schemas/CheckOutResponse"
+                                                                                                                                            }
+                                                                                                                             }
+                                                                                                           }
+                                                                                           },
+                                                                                   "400":  {
+                                                                                               "description":  "Bad Request",
+                                                                                               "content":  {
+                                                                                                               "text/plain":  {
+                                                                                                                                  "schema":  {
+                                                                                                                                                 "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                             }
+                                                                                                                              },
+                                                                                                               "application/json":  {
+                                                                                                                                        "schema":  {
+                                                                                                                                                       "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                   }
+                                                                                                                                    },
+                                                                                                               "text/json":  {
+                                                                                                                                 "schema":  {
+                                                                                                                                                "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                            }
+                                                                                                                             }
+                                                                                                           }
+                                                                                           },
+                                                                                   "500":  {
+                                                                                               "description":  "Internal Server Error"
+                                                                                           }
+                                                                               }
+                                                             }
+                                                },
+                  "/api/Attendance/history/{employeeId}":  {
+                                                               "get":  {
+                                                                           "tags":  [
+                                                                                        "Attendance"
+                                                                                    ],
+                                                                           "parameters":  [
+                                                                                              {
+                                                                                                  "name":  "employeeId",
+                                                                                                  "in":  "path",
+                                                                                                  "required":  true,
+                                                                                                  "schema":  {
+                                                                                                                 "type":  "string",
+                                                                                                                 "format":  "uuid"
+                                                                                                             }
+                                                                                              },
+                                                                                              {
+                                                                                                  "name":  "year",
+                                                                                                  "in":  "query",
+                                                                                                  "schema":  {
+                                                                                                                 "type":  "integer",
+                                                                                                                 "format":  "int32"
+                                                                                                             }
+                                                                                              },
+                                                                                              {
+                                                                                                  "name":  "month",
+                                                                                                  "in":  "query",
+                                                                                                  "schema":  {
+                                                                                                                 "type":  "integer",
+                                                                                                                 "format":  "int32"
+                                                                                                             }
+                                                                                              }
+                                                                                          ],
+                                                                           "responses":  {
+                                                                                             "200":  {
+                                                                                                         "description":  "OK",
+                                                                                                         "content":  {
+                                                                                                                         "text/plain":  {
+                                                                                                                                            "schema":  {
+                                                                                                                                                           "type":  "array",
+                                                                                                                                                           "items":  {
+                                                                                                                                                                         "$ref":  "#/components/schemas/AttendanceHistoryDto"
+                                                                                                                                                                     }
+                                                                                                                                                       }
+                                                                                                                                        },
+                                                                                                                         "application/json":  {
+                                                                                                                                                  "schema":  {
+                                                                                                                                                                 "type":  "array",
+                                                                                                                                                                 "items":  {
+                                                                                                                                                                               "$ref":  "#/components/schemas/AttendanceHistoryDto"
+                                                                                                                                                                           }
+                                                                                                                                                             }
+                                                                                                                                              },
+                                                                                                                         "text/json":  {
+                                                                                                                                           "schema":  {
+                                                                                                                                                          "type":  "array",
+                                                                                                                                                          "items":  {
+                                                                                                                                                                        "$ref":  "#/components/schemas/AttendanceHistoryDto"
+                                                                                                                                                                    }
+                                                                                                                                                      }
+                                                                                                                                       }
+                                                                                                                     }
+                                                                                                     },
+                                                                                             "404":  {
+                                                                                                         "description":  "Not Found",
+                                                                                                         "content":  {
+                                                                                                                         "text/plain":  {
+                                                                                                                                            "schema":  {
+                                                                                                                                                           "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                       }
+                                                                                                                                        },
+                                                                                                                         "application/json":  {
+                                                                                                                                                  "schema":  {
+                                                                                                                                                                 "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                             }
+                                                                                                                                              },
+                                                                                                                         "text/json":  {
+                                                                                                                                           "schema":  {
+                                                                                                                                                          "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                      }
+                                                                                                                                       }
+                                                                                                                     }
+                                                                                                     },
+                                                                                             "500":  {
+                                                                                                         "description":  "Internal Server Error"
+                                                                                                     }
+                                                                                         }
+                                                                       }
+                                                           },
+                  "/api/Attendance/close-month":  {
+                                                      "post":  {
+                                                                   "tags":  [
+                                                                                "Attendance"
+                                                                            ],
+                                                                   "requestBody":  {
+                                                                                       "content":  {
+                                                                                                       "application/json":  {
+                                                                                                                                "schema":  {
+                                                                                                                                               "$ref":  "#/components/schemas/CloseMonthDto"
+                                                                                                                                           }
+                                                                                                                            },
+                                                                                                       "text/json":  {
+                                                                                                                         "schema":  {
+                                                                                                                                        "$ref":  "#/components/schemas/CloseMonthDto"
+                                                                                                                                    }
+                                                                                                                     },
+                                                                                                       "application/*+json":  {
+                                                                                                                                  "schema":  {
+                                                                                                                                                 "$ref":  "#/components/schemas/CloseMonthDto"
+                                                                                                                                             }
+                                                                                                                              }
+                                                                                                   }
+                                                                                   },
+                                                                   "responses":  {
+                                                                                     "200":  {
+                                                                                                 "description":  "OK"
+                                                                                             },
+                                                                                     "400":  {
+                                                                                                 "description":  "Bad Request",
+                                                                                                 "content":  {
+                                                                                                                 "text/plain":  {
+                                                                                                                                    "schema":  {
+                                                                                                                                                   "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                               }
+                                                                                                                                },
+                                                                                                                 "application/json":  {
+                                                                                                                                          "schema":  {
+                                                                                                                                                         "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                     }
+                                                                                                                                      },
+                                                                                                                 "text/json":  {
+                                                                                                                                   "schema":  {
+                                                                                                                                                  "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                              }
+                                                                                                                               }
+                                                                                                             }
+                                                                                             },
+                                                                                     "500":  {
+                                                                                                 "description":  "Internal Server Error"
+                                                                                             }
+                                                                                 }
+                                                               }
+                                                  },
+                  "/api/Attendance/monthly-summary/{employeeId}":  {
+                                                                       "get":  {
+                                                                                   "tags":  [
+                                                                                                "Attendance"
+                                                                                            ],
+                                                                                   "parameters":  [
+                                                                                                      {
+                                                                                                          "name":  "employeeId",
+                                                                                                          "in":  "path",
+                                                                                                          "required":  true,
+                                                                                                          "schema":  {
+                                                                                                                         "type":  "string",
+                                                                                                                         "format":  "uuid"
+                                                                                                                     }
+                                                                                                      },
+                                                                                                      {
+                                                                                                          "name":  "month",
+                                                                                                          "in":  "query",
+                                                                                                          "schema":  {
+                                                                                                                         "type":  "integer",
+                                                                                                                         "format":  "int32"
+                                                                                                                     }
+                                                                                                      },
+                                                                                                      {
+                                                                                                          "name":  "year",
+                                                                                                          "in":  "query",
+                                                                                                          "schema":  {
+                                                                                                                         "type":  "integer",
+                                                                                                                         "format":  "int32"
+                                                                                                                     }
+                                                                                                      }
+                                                                                                  ],
+                                                                                   "responses":  {
+                                                                                                     "200":  {
+                                                                                                                 "description":  "OK",
+                                                                                                                 "content":  {
+                                                                                                                                 "text/plain":  {
+                                                                                                                                                    "schema":  {
+                                                                                                                                                                   "$ref":  "#/components/schemas/MonthlyAttendanceSummaryDto"
+                                                                                                                                                               }
+                                                                                                                                                },
+                                                                                                                                 "application/json":  {
+                                                                                                                                                          "schema":  {
+                                                                                                                                                                         "$ref":  "#/components/schemas/MonthlyAttendanceSummaryDto"
+                                                                                                                                                                     }
+                                                                                                                                                      },
+                                                                                                                                 "text/json":  {
+                                                                                                                                                   "schema":  {
+                                                                                                                                                                  "$ref":  "#/components/schemas/MonthlyAttendanceSummaryDto"
+                                                                                                                                                              }
+                                                                                                                                               }
+                                                                                                                             }
+                                                                                                             },
+                                                                                                     "400":  {
+                                                                                                                 "description":  "Bad Request",
+                                                                                                                 "content":  {
+                                                                                                                                 "text/plain":  {
+                                                                                                                                                    "schema":  {
+                                                                                                                                                                   "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                               }
+                                                                                                                                                },
+                                                                                                                                 "application/json":  {
+                                                                                                                                                          "schema":  {
+                                                                                                                                                                         "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                                     }
+                                                                                                                                                      },
+                                                                                                                                 "text/json":  {
+                                                                                                                                                   "schema":  {
+                                                                                                                                                                  "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                              }
+                                                                                                                                               }
+                                                                                                                             }
+                                                                                                             },
+                                                                                                     "404":  {
+                                                                                                                 "description":  "Not Found",
+                                                                                                                 "content":  {
+                                                                                                                                 "text/plain":  {
+                                                                                                                                                    "schema":  {
+                                                                                                                                                                   "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                               }
+                                                                                                                                                },
+                                                                                                                                 "application/json":  {
+                                                                                                                                                          "schema":  {
+                                                                                                                                                                         "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                                     }
+                                                                                                                                                      },
+                                                                                                                                 "text/json":  {
+                                                                                                                                                   "schema":  {
+                                                                                                                                                                  "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                              }
+                                                                                                                                               }
+                                                                                                                             }
+                                                                                                             },
+                                                                                                     "500":  {
+                                                                                                                 "description":  "Internal Server Error"
+                                                                                                             }
+                                                                                                 }
+                                                                               }
+                                                                   },
+                  "/api/Attendance/leave-summary/{employeeId}":  {
+                                                                     "get":  {
+                                                                                 "tags":  [
+                                                                                              "Attendance"
+                                                                                          ],
+                                                                                 "parameters":  [
+                                                                                                    {
+                                                                                                        "name":  "employeeId",
+                                                                                                        "in":  "path",
+                                                                                                        "required":  true,
+                                                                                                        "schema":  {
+                                                                                                                       "type":  "string",
+                                                                                                                       "format":  "uuid"
+                                                                                                                   }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name":  "month",
+                                                                                                        "in":  "query",
+                                                                                                        "schema":  {
+                                                                                                                       "type":  "integer",
+                                                                                                                       "format":  "int32"
+                                                                                                                   }
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "name":  "year",
+                                                                                                        "in":  "query",
+                                                                                                        "schema":  {
+                                                                                                                       "type":  "integer",
+                                                                                                                       "format":  "int32"
+                                                                                                                   }
+                                                                                                    }
+                                                                                                ],
+                                                                                 "responses":  {
+                                                                                                   "200":  {
+                                                                                                               "description":  "OK",
+                                                                                                               "content":  {
+                                                                                                                               "text/plain":  {
+                                                                                                                                                  "schema":  {
+                                                                                                                                                                 "$ref":  "#/components/schemas/EmployeeLeaveSummaryDto"
+                                                                                                                                                             }
+                                                                                                                                              },
+                                                                                                                               "application/json":  {
+                                                                                                                                                        "schema":  {
+                                                                                                                                                                       "$ref":  "#/components/schemas/EmployeeLeaveSummaryDto"
+                                                                                                                                                                   }
+                                                                                                                                                    },
+                                                                                                                               "text/json":  {
+                                                                                                                                                 "schema":  {
+                                                                                                                                                                "$ref":  "#/components/schemas/EmployeeLeaveSummaryDto"
+                                                                                                                                                            }
+                                                                                                                                             }
+                                                                                                                           }
+                                                                                                           },
+                                                                                                   "400":  {
+                                                                                                               "description":  "Bad Request",
+                                                                                                               "content":  {
+                                                                                                                               "text/plain":  {
+                                                                                                                                                  "schema":  {
+                                                                                                                                                                 "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                             }
+                                                                                                                                              },
+                                                                                                                               "application/json":  {
+                                                                                                                                                        "schema":  {
+                                                                                                                                                                       "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                                   }
+                                                                                                                                                    },
+                                                                                                                               "text/json":  {
+                                                                                                                                                 "schema":  {
+                                                                                                                                                                "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                            }
+                                                                                                                                             }
+                                                                                                                           }
+                                                                                                           },
+                                                                                                   "404":  {
+                                                                                                               "description":  "Not Found",
+                                                                                                               "content":  {
+                                                                                                                               "text/plain":  {
+                                                                                                                                                  "schema":  {
+                                                                                                                                                                 "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                             }
+                                                                                                                                              },
+                                                                                                                               "application/json":  {
+                                                                                                                                                        "schema":  {
+                                                                                                                                                                       "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                                   }
+                                                                                                                                                    },
+                                                                                                                               "text/json":  {
+                                                                                                                                                 "schema":  {
+                                                                                                                                                                "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                            }
+                                                                                                                                             }
+                                                                                                                           }
+                                                                                                           },
+                                                                                                   "500":  {
+                                                                                                               "description":  "Internal Server Error"
+                                                                                                           }
+                                                                                               }
+                                                                             }
+                                                                 },
+                  "/api/employee-sync/sync":  {
+                                                  "post":  {
+                                                               "tags":  [
+                                                                            "EmployeeSync"
+                                                                        ],
+                                                               "responses":  {
+                                                                                 "200":  {
+                                                                                             "description":  "OK",
+                                                                                             "content":  {
+                                                                                                             "text/plain":  {
+                                                                                                                                "schema":  {
+
+                                                                                                                                           }
+                                                                                                                            },
+                                                                                                             "application/json":  {
+                                                                                                                                      "schema":  {
+
+                                                                                                                                                 }
+                                                                                                                                  },
+                                                                                                             "text/json":  {
+                                                                                                                               "schema":  {
+
+                                                                                                                                          }
+                                                                                                                           }
+                                                                                                         }
+                                                                                         },
+                                                                                 "500":  {
+                                                                                             "description":  "Internal Server Error",
+                                                                                             "content":  {
+                                                                                                             "text/plain":  {
+                                                                                                                                "schema":  {
+
+                                                                                                                                           }
+                                                                                                                            },
+                                                                                                             "application/json":  {
+                                                                                                                                      "schema":  {
+
+                                                                                                                                                 }
+                                                                                                                                  },
+                                                                                                             "text/json":  {
+                                                                                                                               "schema":  {
+
+                                                                                                                                          }
+                                                                                                                           }
+                                                                                                         }
+                                                                                         }
+                                                                             }
+                                                           }
+                                              },
+                  "/api/employee-sync/status":  {
+                                                    "get":  {
+                                                                "tags":  [
+                                                                             "EmployeeSync"
+                                                                         ],
+                                                                "responses":  {
+                                                                                  "200":  {
+                                                                                              "description":  "OK",
+                                                                                              "content":  {
+                                                                                                              "text/plain":  {
+                                                                                                                                 "schema":  {
+
+                                                                                                                                            }
+                                                                                                                             },
+                                                                                                              "application/json":  {
+                                                                                                                                       "schema":  {
+
+                                                                                                                                                  }
+                                                                                                                                   },
+                                                                                                              "text/json":  {
+                                                                                                                                "schema":  {
+
+                                                                                                                                           }
+                                                                                                                            }
+                                                                                                          }
+                                                                                          },
+                                                                                  "500":  {
+                                                                                              "description":  "Internal Server Error",
+                                                                                              "content":  {
+                                                                                                              "text/plain":  {
+                                                                                                                                 "schema":  {
+
+                                                                                                                                            }
+                                                                                                                             },
+                                                                                                              "application/json":  {
+                                                                                                                                       "schema":  {
+
+                                                                                                                                                  }
+                                                                                                                                   },
+                                                                                                              "text/json":  {
+                                                                                                                                "schema":  {
+
+                                                                                                                                           }
+                                                                                                                            }
+                                                                                                          }
+                                                                                          }
+                                                                              }
+                                                            }
+                                                },
+                  "/api/employee-sync/local-employees":  {
+                                                             "get":  {
+                                                                         "tags":  [
+                                                                                      "EmployeeSync"
+                                                                                  ],
+                                                                         "responses":  {
+                                                                                           "200":  {
+                                                                                                       "description":  "OK",
+                                                                                                       "content":  {
+                                                                                                                       "text/plain":  {
+                                                                                                                                          "schema":  {
+
+                                                                                                                                                     }
+                                                                                                                                      },
+                                                                                                                       "application/json":  {
+                                                                                                                                                "schema":  {
+
+                                                                                                                                                           }
+                                                                                                                                            },
+                                                                                                                       "text/json":  {
+                                                                                                                                         "schema":  {
+
+                                                                                                                                                    }
+                                                                                                                                     }
+                                                                                                                   }
+                                                                                                   }
+                                                                                       }
+                                                                     }
+                                                         },
+                  "/api/test/hr-employees":  {
+                                                 "get":  {
+                                                             "tags":  [
+                                                                          "HrServiceTest"
+                                                                      ],
+                                                             "responses":  {
+                                                                               "200":  {
+                                                                                           "description":  "OK"
+                                                                                       }
+                                                                           }
+                                                         }
+                                             },
+                  "/api/Leave/employees":  {
+                                               "get":  {
+                                                           "tags":  [
+                                                                        "Leave"
+                                                                    ],
+                                                           "responses":  {
+                                                                             "200":  {
+                                                                                         "description":  "OK",
+                                                                                         "content":  {
+                                                                                                         "text/plain":  {
+                                                                                                                            "schema":  {
+                                                                                                                                           "type":  "array",
+                                                                                                                                           "items":  {
+                                                                                                                                                         "$ref":  "#/components/schemas/EmployeeListItemDto"
+                                                                                                                                                     }
+                                                                                                                                       }
+                                                                                                                        },
+                                                                                                         "application/json":  {
+                                                                                                                                  "schema":  {
+                                                                                                                                                 "type":  "array",
+                                                                                                                                                 "items":  {
+                                                                                                                                                               "$ref":  "#/components/schemas/EmployeeListItemDto"
+                                                                                                                                                           }
+                                                                                                                                             }
+                                                                                                                              },
+                                                                                                         "text/json":  {
+                                                                                                                           "schema":  {
+                                                                                                                                          "type":  "array",
+                                                                                                                                          "items":  {
+                                                                                                                                                        "$ref":  "#/components/schemas/EmployeeListItemDto"
+                                                                                                                                                    }
+                                                                                                                                      }
+                                                                                                                       }
+                                                                                                     }
+                                                                                     },
+                                                                             "500":  {
+                                                                                         "description":  "Internal Server Error"
+                                                                                     }
+                                                                         }
+                                                       }
+                                           },
+                  "/api/Leave/request":  {
+                                             "post":  {
+                                                          "tags":  [
+                                                                       "Leave"
+                                                                   ],
+                                                          "requestBody":  {
+                                                                              "content":  {
+                                                                                              "application/json":  {
+                                                                                                                       "schema":  {
+                                                                                                                                      "$ref":  "#/components/schemas/CreateLeaveRequestDto"
+                                                                                                                                  }
+                                                                                                                   },
+                                                                                              "text/json":  {
+                                                                                                                "schema":  {
+                                                                                                                               "$ref":  "#/components/schemas/CreateLeaveRequestDto"
+                                                                                                                           }
+                                                                                                            },
+                                                                                              "application/*+json":  {
+                                                                                                                         "schema":  {
+                                                                                                                                        "$ref":  "#/components/schemas/CreateLeaveRequestDto"
+                                                                                                                                    }
+                                                                                                                     }
+                                                                                          }
+                                                                          },
+                                                          "responses":  {
+                                                                            "200":  {
+                                                                                        "description":  "OK",
+                                                                                        "content":  {
+                                                                                                        "text/plain":  {
+                                                                                                                           "schema":  {
+                                                                                                                                          "$ref":  "#/components/schemas/CreateLeaveRequestResponse"
+                                                                                                                                      }
+                                                                                                                       },
+                                                                                                        "application/json":  {
+                                                                                                                                 "schema":  {
+                                                                                                                                                "$ref":  "#/components/schemas/CreateLeaveRequestResponse"
+                                                                                                                                            }
+                                                                                                                             },
+                                                                                                        "text/json":  {
+                                                                                                                          "schema":  {
+                                                                                                                                         "$ref":  "#/components/schemas/CreateLeaveRequestResponse"
+                                                                                                                                     }
+                                                                                                                      }
+                                                                                                    }
+                                                                                    },
+                                                                            "400":  {
+                                                                                        "description":  "Bad Request",
+                                                                                        "content":  {
+                                                                                                        "text/plain":  {
+                                                                                                                           "schema":  {
+                                                                                                                                          "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                      }
+                                                                                                                       },
+                                                                                                        "application/json":  {
+                                                                                                                                 "schema":  {
+                                                                                                                                                "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                            }
+                                                                                                                             },
+                                                                                                        "text/json":  {
+                                                                                                                          "schema":  {
+                                                                                                                                         "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                     }
+                                                                                                                      }
+                                                                                                    }
+                                                                                    },
+                                                                            "500":  {
+                                                                                        "description":  "Internal Server Error"
+                                                                                    }
+                                                                        }
+                                                      }
+                                         },
+                  "/api/Leave/pending-list":  {
+                                                  "get":  {
+                                                              "tags":  [
+                                                                           "Leave"
+                                                                       ],
+                                                              "responses":  {
+                                                                                "200":  {
+                                                                                            "description":  "OK",
+                                                                                            "content":  {
+                                                                                                            "text/plain":  {
+                                                                                                                               "schema":  {
+                                                                                                                                              "type":  "array",
+                                                                                                                                              "items":  {
+                                                                                                                                                            "$ref":  "#/components/schemas/LeaveRequestDto"
+                                                                                                                                                        }
+                                                                                                                                          }
+                                                                                                                           },
+                                                                                                            "application/json":  {
+                                                                                                                                     "schema":  {
+                                                                                                                                                    "type":  "array",
+                                                                                                                                                    "items":  {
+                                                                                                                                                                  "$ref":  "#/components/schemas/LeaveRequestDto"
+                                                                                                                                                              }
+                                                                                                                                                }
+                                                                                                                                 },
+                                                                                                            "text/json":  {
+                                                                                                                              "schema":  {
+                                                                                                                                             "type":  "array",
+                                                                                                                                             "items":  {
+                                                                                                                                                           "$ref":  "#/components/schemas/LeaveRequestDto"
+                                                                                                                                                       }
+                                                                                                                                         }
+                                                                                                                          }
+                                                                                                        }
+                                                                                        },
+                                                                                "500":  {
+                                                                                            "description":  "Internal Server Error"
+                                                                                        }
+                                                                            }
+                                                          }
+                                              },
+                  "/api/Leave/employee/{employeeId}":  {
+                                                           "get":  {
+                                                                       "tags":  [
+                                                                                    "Leave"
+                                                                                ],
+                                                                       "parameters":  [
+                                                                                          {
+                                                                                              "name":  "employeeId",
+                                                                                              "in":  "path",
+                                                                                              "required":  true,
+                                                                                              "schema":  {
+                                                                                                             "type":  "string",
+                                                                                                             "format":  "uuid"
+                                                                                                         }
+                                                                                          }
+                                                                                      ],
+                                                                       "responses":  {
+                                                                                         "200":  {
+                                                                                                     "description":  "OK",
+                                                                                                     "content":  {
+                                                                                                                     "text/plain":  {
+                                                                                                                                        "schema":  {
+                                                                                                                                                       "type":  "array",
+                                                                                                                                                       "items":  {
+                                                                                                                                                                     "$ref":  "#/components/schemas/LeaveRequestDto"
+                                                                                                                                                                 }
+                                                                                                                                                   }
+                                                                                                                                    },
+                                                                                                                     "application/json":  {
+                                                                                                                                              "schema":  {
+                                                                                                                                                             "type":  "array",
+                                                                                                                                                             "items":  {
+                                                                                                                                                                           "$ref":  "#/components/schemas/LeaveRequestDto"
+                                                                                                                                                                       }
+                                                                                                                                                         }
+                                                                                                                                          },
+                                                                                                                     "text/json":  {
+                                                                                                                                       "schema":  {
+                                                                                                                                                      "type":  "array",
+                                                                                                                                                      "items":  {
+                                                                                                                                                                    "$ref":  "#/components/schemas/LeaveRequestDto"
+                                                                                                                                                                }
+                                                                                                                                                  }
+                                                                                                                                   }
+                                                                                                                 }
+                                                                                                 },
+                                                                                         "404":  {
+                                                                                                     "description":  "Not Found",
+                                                                                                     "content":  {
+                                                                                                                     "text/plain":  {
+                                                                                                                                        "schema":  {
+                                                                                                                                                       "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                   }
+                                                                                                                                    },
+                                                                                                                     "application/json":  {
+                                                                                                                                              "schema":  {
+                                                                                                                                                             "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                         }
+                                                                                                                                          },
+                                                                                                                     "text/json":  {
+                                                                                                                                       "schema":  {
+                                                                                                                                                      "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                  }
+                                                                                                                                   }
+                                                                                                                 }
+                                                                                                 },
+                                                                                         "500":  {
+                                                                                                     "description":  "Internal Server Error"
+                                                                                                 }
+                                                                                     }
+                                                                   }
+                                                       },
+                  "/api/Leave/approve/{id}":  {
+                                                  "put":  {
+                                                              "tags":  [
+                                                                           "Leave"
+                                                                       ],
+                                                              "parameters":  [
+                                                                                 {
+                                                                                     "name":  "id",
+                                                                                     "in":  "path",
+                                                                                     "required":  true,
+                                                                                     "schema":  {
+                                                                                                    "type":  "string",
+                                                                                                    "format":  "uuid"
+                                                                                                }
+                                                                                 }
+                                                                             ],
+                                                              "requestBody":  {
+                                                                                  "content":  {
+                                                                                                  "application/json":  {
+                                                                                                                           "schema":  {
+                                                                                                                                          "$ref":  "#/components/schemas/ApproveLeaveRequestDto"
+                                                                                                                                      }
+                                                                                                                       },
+                                                                                                  "text/json":  {
+                                                                                                                    "schema":  {
+                                                                                                                                   "$ref":  "#/components/schemas/ApproveLeaveRequestDto"
+                                                                                                                               }
+                                                                                                                },
+                                                                                                  "application/*+json":  {
+                                                                                                                             "schema":  {
+                                                                                                                                            "$ref":  "#/components/schemas/ApproveLeaveRequestDto"
+                                                                                                                                        }
+                                                                                                                         }
+                                                                                              }
+                                                                              },
+                                                              "responses":  {
+                                                                                "200":  {
+                                                                                            "description":  "OK"
+                                                                                        },
+                                                                                "400":  {
+                                                                                            "description":  "Bad Request",
+                                                                                            "content":  {
+                                                                                                            "text/plain":  {
+                                                                                                                               "schema":  {
+                                                                                                                                              "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                          }
+                                                                                                                           },
+                                                                                                            "application/json":  {
+                                                                                                                                     "schema":  {
+                                                                                                                                                    "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                }
+                                                                                                                                 },
+                                                                                                            "text/json":  {
+                                                                                                                              "schema":  {
+                                                                                                                                             "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                         }
+                                                                                                                          }
+                                                                                                        }
+                                                                                        },
+                                                                                "404":  {
+                                                                                            "description":  "Not Found",
+                                                                                            "content":  {
+                                                                                                            "text/plain":  {
+                                                                                                                               "schema":  {
+                                                                                                                                              "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                          }
+                                                                                                                           },
+                                                                                                            "application/json":  {
+                                                                                                                                     "schema":  {
+                                                                                                                                                    "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                                }
+                                                                                                                                 },
+                                                                                                            "text/json":  {
+                                                                                                                              "schema":  {
+                                                                                                                                             "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                         }
+                                                                                                                          }
+                                                                                                        }
+                                                                                        },
+                                                                                "500":  {
+                                                                                            "description":  "Internal Server Error"
+                                                                                        }
+                                                                            }
+                                                          }
+                                              },
+                  "/api/Leave/reject/{id}":  {
+                                                 "put":  {
+                                                             "tags":  [
+                                                                          "Leave"
+                                                                      ],
+                                                             "parameters":  [
+                                                                                {
+                                                                                    "name":  "id",
+                                                                                    "in":  "path",
+                                                                                    "required":  true,
+                                                                                    "schema":  {
+                                                                                                   "type":  "string",
+                                                                                                   "format":  "uuid"
+                                                                                               }
+                                                                                }
+                                                                            ],
+                                                             "requestBody":  {
+                                                                                 "content":  {
+                                                                                                 "application/json":  {
+                                                                                                                          "schema":  {
+                                                                                                                                         "$ref":  "#/components/schemas/ApproveLeaveRequestDto"
+                                                                                                                                     }
+                                                                                                                      },
+                                                                                                 "text/json":  {
+                                                                                                                   "schema":  {
+                                                                                                                                  "$ref":  "#/components/schemas/ApproveLeaveRequestDto"
+                                                                                                                              }
+                                                                                                               },
+                                                                                                 "application/*+json":  {
+                                                                                                                            "schema":  {
+                                                                                                                                           "$ref":  "#/components/schemas/ApproveLeaveRequestDto"
+                                                                                                                                       }
+                                                                                                                        }
+                                                                                             }
+                                                                             },
+                                                             "responses":  {
+                                                                               "200":  {
+                                                                                           "description":  "OK"
+                                                                                       },
+                                                                               "400":  {
+                                                                                           "description":  "Bad Request",
+                                                                                           "content":  {
+                                                                                                           "text/plain":  {
+                                                                                                                              "schema":  {
+                                                                                                                                             "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                         }
+                                                                                                                          },
+                                                                                                           "application/json":  {
+                                                                                                                                    "schema":  {
+                                                                                                                                                   "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                               }
+                                                                                                                                },
+                                                                                                           "text/json":  {
+                                                                                                                             "schema":  {
+                                                                                                                                            "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                        }
+                                                                                                                         }
+                                                                                                       }
+                                                                                       },
+                                                                               "404":  {
+                                                                                           "description":  "Not Found",
+                                                                                           "content":  {
+                                                                                                           "text/plain":  {
+                                                                                                                              "schema":  {
+                                                                                                                                             "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                         }
+                                                                                                                          },
+                                                                                                           "application/json":  {
+                                                                                                                                    "schema":  {
+                                                                                                                                                   "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                               }
+                                                                                                                                },
+                                                                                                           "text/json":  {
+                                                                                                                             "schema":  {
+                                                                                                                                            "$ref":  "#/components/schemas/ProblemDetails"
+                                                                                                                                        }
+                                                                                                                         }
+                                                                                                       }
+                                                                                       },
+                                                                               "500":  {
+                                                                                           "description":  "Internal Server Error"
+                                                                                       }
+                                                                           }
+                                                         }
+                                             }
+              },
+    "components":  {
+                       "schemas":  {
+                                       "ApproveLeaveRequestDto":  {
+                                                                      "type":  "object",
+                                                                      "properties":  {
+                                                                                         "leaveRequestId":  {
+                                                                                                                "type":  "string",
+                                                                                                                "format":  "uuid"
+                                                                                                            },
+                                                                                         "approverId":  {
+                                                                                                            "type":  "string",
+                                                                                                            "format":  "uuid"
+                                                                                                        },
+                                                                                         "notes":  {
+                                                                                                       "type":  "string",
+                                                                                                       "nullable":  true
+                                                                                                   }
+                                                                                     },
+                                                                      "additionalProperties":  false
+                                                                  },
+                                       "AttendanceHistoryDto":  {
+                                                                    "type":  "object",
+                                                                    "properties":  {
+                                                                                       "id":  {
+                                                                                                  "type":  "string",
+                                                                                                  "format":  "uuid"
+                                                                                              },
+                                                                                       "date":  {
+                                                                                                    "type":  "string",
+                                                                                                    "format":  "date-time"
+                                                                                                },
+                                                                                       "checkIn":  {
+                                                                                                       "type":  "string",
+                                                                                                       "format":  "date-span",
+                                                                                                       "nullable":  true
+                                                                                                   },
+                                                                                       "checkOut":  {
+                                                                                                        "type":  "string",
+                                                                                                        "format":  "date-span",
+                                                                                                        "nullable":  true
+                                                                                                    },
+                                                                                       "status":  {
+                                                                                                      "type":  "string",
+                                                                                                      "nullable":  true
+                                                                                                  },
+                                                                                       "overtimeHours":  {
+                                                                                                             "type":  "number",
+                                                                                                             "format":  "double"
+                                                                                                         },
+                                                                                       "shiftName":  {
+                                                                                                         "type":  "string",
+                                                                                                         "nullable":  true
+                                                                                                     }
+                                                                                   },
+                                                                    "additionalProperties":  false
+                                                                },
+                                       "CheckInResponse":  {
+                                                               "type":  "object",
+                                                               "properties":  {
+                                                                                  "success":  {
+                                                                                                  "type":  "boolean"
+                                                                                              },
+                                                                                  "message":  {
+                                                                                                  "type":  "string",
+                                                                                                  "nullable":  true
+                                                                                              },
+                                                                                  "attendanceLogId":  {
+                                                                                                          "type":  "string",
+                                                                                                          "format":  "uuid"
+                                                                                                      },
+                                                                                  "checkInTime":  {
+                                                                                                      "type":  "string",
+                                                                                                      "format":  "date-span"
+                                                                                                  },
+                                                                                  "lateMinutes":  {
+                                                                                                      "type":  "integer",
+                                                                                                      "format":  "int32"
+                                                                                                  },
+                                                                                  "status":  {
+                                                                                                 "type":  "string",
+                                                                                                 "nullable":  true
+                                                                                             }
+                                                                              },
+                                                               "additionalProperties":  false
+                                                           },
+                                       "CheckOutResponse":  {
+                                                                "type":  "object",
+                                                                "properties":  {
+                                                                                   "success":  {
+                                                                                                   "type":  "boolean"
+                                                                                               },
+                                                                                   "message":  {
+                                                                                                   "type":  "string",
+                                                                                                   "nullable":  true
+                                                                                               },
+                                                                                   "attendanceLogId":  {
+                                                                                                           "type":  "string",
+                                                                                                           "format":  "uuid"
+                                                                                                       },
+                                                                                   "checkOutTime":  {
+                                                                                                        "type":  "string",
+                                                                                                        "format":  "date-span"
+                                                                                                    },
+                                                                                   "workingHours":  {
+                                                                                                        "type":  "number",
+                                                                                                        "format":  "double"
+                                                                                                    },
+                                                                                   "overtimeHours":  {
+                                                                                                         "type":  "number",
+                                                                                                         "format":  "double"
+                                                                                                     }
+                                                                               },
+                                                                "additionalProperties":  false
+                                                            },
+                                       "CloseMonthDto":  {
+                                                             "type":  "object",
+                                                             "properties":  {
+                                                                                "year":  {
+                                                                                             "type":  "integer",
+                                                                                             "format":  "int32"
+                                                                                         },
+                                                                                "month":  {
+                                                                                              "type":  "integer",
+                                                                                              "format":  "int32"
+                                                                                          }
+                                                                            },
+                                                             "additionalProperties":  false
+                                                         },
+                                       "CreateLeaveRequestDto":  {
+                                                                     "type":  "object",
+                                                                     "properties":  {
+                                                                                        "employeeId":  {
+                                                                                                           "type":  "string",
+                                                                                                           "format":  "uuid"
+                                                                                                       },
+                                                                                        "startDate":  {
+                                                                                                          "type":  "string",
+                                                                                                          "format":  "date-time"
+                                                                                                      },
+                                                                                        "endDate":  {
+                                                                                                        "type":  "string",
+                                                                                                        "format":  "date-time"
+                                                                                                    },
+                                                                                        "reason":  {
+                                                                                                       "type":  "string",
+                                                                                                       "nullable":  true
+                                                                                                   }
+                                                                                    },
+                                                                     "additionalProperties":  false
+                                                                 },
+                                       "CreateLeaveRequestResponse":  {
+                                                                          "type":  "object",
+                                                                          "properties":  {
+                                                                                             "success":  {
+                                                                                                             "type":  "boolean"
+                                                                                                         },
+                                                                                             "message":  {
+                                                                                                             "type":  "string",
+                                                                                                             "nullable":  true
+                                                                                                         },
+                                                                                             "leaveRequestId":  {
+                                                                                                                    "type":  "string",
+                                                                                                                    "format":  "uuid"
+                                                                                                                }
+                                                                                         },
+                                                                          "additionalProperties":  false
+                                                                      },
+                                       "EmployeeLeaveSummaryDto":  {
+                                                                       "type":  "object",
+                                                                       "properties":  {
+                                                                                          "employeeId":  {
+                                                                                                             "type":  "string",
+                                                                                                             "format":  "uuid"
+                                                                                                         },
+                                                                                          "employeeCode":  {
+                                                                                                               "type":  "string",
+                                                                                                               "nullable":  true
+                                                                                                           },
+                                                                                          "fullName":  {
+                                                                                                           "type":  "string",
+                                                                                                           "nullable":  true
+                                                                                                       },
+                                                                                          "month":  {
+                                                                                                        "type":  "integer",
+                                                                                                        "format":  "int32"
+                                                                                                    },
+                                                                                          "year":  {
+                                                                                                       "type":  "integer",
+                                                                                                       "format":  "int32"
+                                                                                                   },
+                                                                                          "totalLeaveDays":  {
+                                                                                                                 "type":  "integer",
+                                                                                                                 "format":  "int32"
+                                                                                                             },
+                                                                                          "approvedLeaveDays":  {
+                                                                                                                    "type":  "integer",
+                                                                                                                    "format":  "int32"
+                                                                                                                },
+                                                                                          "pendingLeaveRequests":  {
+                                                                                                                       "type":  "integer",
+                                                                                                                       "format":  "int32"
+                                                                                                                   },
+                                                                                          "rejectedLeaveRequests":  {
+                                                                                                                        "type":  "integer",
+                                                                                                                        "format":  "int32"
+                                                                                                                    },
+                                                                                          "leaveDetails":  {
+                                                                                                               "type":  "array",
+                                                                                                               "items":  {
+                                                                                                                             "$ref":  "#/components/schemas/LeaveDetailDto"
+                                                                                                                         },
+                                                                                                               "nullable":  true
+                                                                                                           }
+                                                                                      },
+                                                                       "additionalProperties":  false
+                                                                   },
+                                       "EmployeeListItemDto":  {
+                                                                   "type":  "object",
+                                                                   "properties":  {
+                                                                                      "id":  {
+                                                                                                 "type":  "string",
+                                                                                                 "format":  "uuid"
+                                                                                             },
+                                                                                      "employeeCode":  {
+                                                                                                           "type":  "string",
+                                                                                                           "nullable":  true
+                                                                                                       },
+                                                                                      "fullName":  {
+                                                                                                       "type":  "string",
+                                                                                                       "nullable":  true
+                                                                                                   },
+                                                                                      "status":  {
+                                                                                                     "type":  "string",
+                                                                                                     "nullable":  true
+                                                                                                 }
+                                                                                  },
+                                                                   "additionalProperties":  false
+                                                               },
+                                       "LeaveDetailDto":  {
+                                                              "type":  "object",
+                                                              "properties":  {
+                                                                                 "leaveRequestId":  {
+                                                                                                        "type":  "string",
+                                                                                                        "format":  "uuid"
+                                                                                                    },
+                                                                                 "startDate":  {
+                                                                                                   "type":  "string",
+                                                                                                   "format":  "date-time"
+                                                                                               },
+                                                                                 "endDate":  {
+                                                                                                 "type":  "string",
+                                                                                                 "format":  "date-time"
+                                                                                             },
+                                                                                 "status":  {
+                                                                                                "type":  "string",
+                                                                                                "nullable":  true
+                                                                                            },
+                                                                                 "reason":  {
+                                                                                                "type":  "string",
+                                                                                                "nullable":  true
+                                                                                            },
+                                                                                 "leaveDays":  {
+                                                                                                   "type":  "integer",
+                                                                                                   "format":  "int32"
+                                                                                               }
+                                                                             },
+                                                              "additionalProperties":  false
+                                                          },
+                                       "LeaveRequestDto":  {
+                                                               "type":  "object",
+                                                               "properties":  {
+                                                                                  "id":  {
+                                                                                             "type":  "string",
+                                                                                             "format":  "uuid"
+                                                                                         },
+                                                                                  "employeeId":  {
+                                                                                                     "type":  "string",
+                                                                                                     "format":  "uuid"
+                                                                                                 },
+                                                                                  "employeeName":  {
+                                                                                                       "type":  "string",
+                                                                                                       "nullable":  true
+                                                                                                   },
+                                                                                  "employeeCode":  {
+                                                                                                       "type":  "string",
+                                                                                                       "nullable":  true
+                                                                                                   },
+                                                                                  "startDate":  {
+                                                                                                    "type":  "string",
+                                                                                                    "format":  "date-time"
+                                                                                                },
+                                                                                  "endDate":  {
+                                                                                                  "type":  "string",
+                                                                                                  "format":  "date-time"
+                                                                                              },
+                                                                                  "status":  {
+                                                                                                 "type":  "string",
+                                                                                                 "nullable":  true
+                                                                                             },
+                                                                                  "reason":  {
+                                                                                                 "type":  "string",
+                                                                                                 "nullable":  true
+                                                                                             },
+                                                                                  "createdAt":  {
+                                                                                                    "type":  "string",
+                                                                                                    "format":  "date-time"
+                                                                                                },
+                                                                                  "updatedAt":  {
+                                                                                                    "type":  "string",
+                                                                                                    "format":  "date-time"
+                                                                                                },
+                                                                                  "approvedBy":  {
+                                                                                                     "type":  "string",
+                                                                                                     "format":  "uuid",
+                                                                                                     "nullable":  true
+                                                                                                 }
+                                                                              },
+                                                               "additionalProperties":  false
+                                                           },
+                                       "MonthlyAttendanceSummaryDto":  {
+                                                                           "type":  "object",
+                                                                           "properties":  {
+                                                                                              "employeeId":  {
+                                                                                                                 "type":  "string",
+                                                                                                                 "format":  "uuid"
+                                                                                                             },
+                                                                                              "month":  {
+                                                                                                            "type":  "integer",
+                                                                                                            "format":  "int32"
+                                                                                                        },
+                                                                                              "year":  {
+                                                                                                           "type":  "integer",
+                                                                                                           "format":  "int32"
+                                                                                                       },
+                                                                                              "workingDays":  {
+                                                                                                                  "type":  "integer",
+                                                                                                                  "format":  "int32"
+                                                                                                              },
+                                                                                              "presentDays":  {
+                                                                                                                  "type":  "integer",
+                                                                                                                  "format":  "int32"
+                                                                                                              },
+                                                                                              "leaveDays":  {
+                                                                                                                "type":  "integer",
+                                                                                                                "format":  "int32"
+                                                                                                            },
+                                                                                              "absentDays":  {
+                                                                                                                 "type":  "integer",
+                                                                                                                 "format":  "int32"
+                                                                                                             },
+                                                                                              "lateArrivals":  {
+                                                                                                                   "type":  "integer",
+                                                                                                                   "format":  "int32"
+                                                                                                               },
+                                                                                              "totalLateMinutes":  {
+                                                                                                                       "type":  "integer",
+                                                                                                                       "format":  "int32"
+                                                                                                                   },
+                                                                                              "overtimeHours":  {
+                                                                                                                    "type":  "number",
+                                                                                                                    "format":  "double"
+                                                                                                                },
+                                                                                              "status":  {
+                                                                                                             "type":  "string",
+                                                                                                             "nullable":  true
+                                                                                                         },
+                                                                                              "calculatedAt":  {
+                                                                                                                   "type":  "string",
+                                                                                                                   "format":  "date-time"
+                                                                                                               }
+                                                                                          },
+                                                                           "additionalProperties":  false
+                                                                       },
+                                       "ProblemDetails":  {
+                                                              "type":  "object",
+                                                              "properties":  {
+                                                                                 "type":  {
+                                                                                              "type":  "string",
+                                                                                              "nullable":  true
+                                                                                          },
+                                                                                 "title":  {
+                                                                                               "type":  "string",
+                                                                                               "nullable":  true
+                                                                                           },
+                                                                                 "status":  {
+                                                                                                "type":  "integer",
+                                                                                                "format":  "int32",
+                                                                                                "nullable":  true
+                                                                                            },
+                                                                                 "detail":  {
+                                                                                                "type":  "string",
+                                                                                                "nullable":  true
+                                                                                            },
+                                                                                 "instance":  {
+                                                                                                  "type":  "string",
+                                                                                                  "nullable":  true
+                                                                                              }
+                                                                             },
+                                                              "additionalProperties":  {
+
+                                                                                       }
+                                                          }
+                                   }
+                   },
+    "tags":  [
+                 {
+                     "name":  "Attendance"
+                 },
+                 {
+                     "name":  "EmployeeSync"
+                 },
+                 {
+                     "name":  "HrServiceTest"
+                 },
+                 {
+                     "name":  "Leave"
+                 }
+             ]
+}

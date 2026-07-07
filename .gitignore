@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# .NET / C#
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+appsettings.Development.json
+appsettings.Production.json
+
+# IDEs / OS
+.vscode/
+.vs/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# Docker
+.dockerignore
+!docker-compose.yml
+!Dockerfile
+
+# Environment variables
+.env
+.env.*
+!.env.example
